@@ -966,7 +966,7 @@
     },
     {
       "term": "Which of the following is the right sequence when developing software using the XP practice of Test First Programming?A. Write a testMake sure the test failsWrite enough code so the test passesRefactor as necessaryB. Write codeRefactor as necessaryWrite a testMake the test passC. DesignWrite codeWrite a testD. Write codeWrite a testMake the test passRefactor as necessary",
-      "definition": "A. Write a test"
+      "definition": "Write a test Make sure the test fails Write enough code so the test passes Refactor as necessary"
     },
     {
       "term": "Which of the following is the meaning of XP practice \"Whole Team\"? | The whole team should always sit together in a room. | The whole team should be energized and passionate about the product they are building. | All the skills necessary to deliver the software product should be present on the team. | The whole team should be working together to meet the team's commitment",
