@@ -1,0 +1,42 @@
+[
+    {
+        "term": "Which of the following is the right sequence when developing software using the XP practice of Test First Programming?",
+        "definition": "Write a test Make sure the test fails Write enough code so the test passes Refactor as necessary"
+    },
+    {
+        "term": "Which XP practice prescribes that \"the code [always be] written by two programmers at one machine\"?",
+        "definition": "Pair Programming"
+    },
+    {
+        "term": "Which of the following are primary practices prescribed by XP?",
+        "definition": "Pair Programming, Whole Team, Continuous Integration"
+    },
+    {
+        "term": "One of the practices of XP is \"Whole Team\". Which of the following statements align with its meaning?",
+        "definition": "All the skills necessary to deliver the software product should be present on the team."
+    },
+    {
+        "term": "If an XP team cannot provide an estimate for a story, what should they do to gain a better understanding of the story?",
+        "definition": "Provide their best guess based on what they know."
+    },
+    {
+        "term": "According to XP's principles, what should you do when a story's acceptance test fails?",
+        "definition": "Extend the iteration's duration so the bug(s) can be fixed in the same iteration., As a team, update the acceptance test so the test passes., Release the software without fixing; a few bugs are ok."
+    },
+    {
+        "term": "What activities occur as part of XP's \"Weekly Planning\" practice?",
+        "definition": "Selecting the next week's work., Reviewing the previous week's progress., Breaking stories into smaller tasks."
+    },
+    {
+        "term": "An XP team is getting feedback more frequently than they can handle. What should they do?",
+        "definition": "Work extra hours each day to address all of the feedback., Further increase the frequency and quantity of feedback., Slow down the frequency of feedback."
+    },
+    {
+        "term": "According to the concept of \"Whole Team\", which of the following statements are true?",
+        "definition": "It is not recommended for a team member to be part of multiple teams."
+    },
+    {
+        "term": "Which of the following statements are true about the XP value of \"Simplicity\"?",
+        "definition": "Select the simplest design that could possibly work."
+    }
+]
