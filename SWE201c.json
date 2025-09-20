@@ -1406,7 +1406,7 @@
     },
     {
       "term": "A team was doing release planning and they decided that the next release will include all stories from Story 1 to Story 11 (see table 2 below). The velocity range to be used for the release planning is 15-22. The team works in a 2 week iteration. It costs about $50,000 per iteration to fund the entire team.Calculate the estimated duration for next release. Additionally, how much will this release cost?Table 2: Prioritized Product BacklogStory TitleEstimate (in ideal days)Story 15Story 25Story 38Story 43Story 55Story 65Story 73Story 85Story 98Story 108Story 113Story 123Story 133Story 145Story 158Story 163Story 175Story 185Story 198Story 208 | Duration: 6-8 weeks, Cost: 150K to 200K | Duration: 3-4 weeks, Cost: 150K to 200K | Duration: 10-14 weeks, Cost: 500K to 700K | Duration: 6-8 weeks, Cost: 300K to 400K",
-      "definition": "Duration: 6-8 weeks, Cost: 150K to 200K"
+      "definition": "Duration: 6-8 weeks, Cost: 150K to 200K "
     }
   ]
 }
