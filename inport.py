@@ -19,28 +19,34 @@ def main():
     with open(target_file, "r", encoding="utf-8") as f:
         source_data = json.load(f)
 
-    if "Data" not in source_data:
-        source_data["Data"] = []
+    # Đảm bảo có trường quizSrc
+    if "quizSrc" not in source_data or not isinstance(source_data["quizSrc"], list):
+        source_data["quizSrc"] = []
 
-    # Tạo dict để dễ tra cứu nhanh theo term
-    existing_terms = {item["term"]: item for item in source_data["Data"]}
+    quiz_list = source_data["quizSrc"]
+
+    # Tạo dict để tra cứu nhanh theo term
+    existing_terms = {item["term"]: item for item in quiz_list if "term" in item}
 
     for item in data_to_import:
         term = item.get("term")
         definition = item.get("definition")
 
+        if not term:
+            continue  # bỏ qua nếu thiếu dữ liệu
+
         if term in existing_terms:
-            # Nếu đã có câu hỏi
-            if existing_terms[term]["definition"] != definition:
+            # Nếu đã có câu hỏi thì update đáp án nếu khác
+            if existing_terms[term].get("definition") != definition:
                 print(f"🔄 Update đáp án cho câu: {term}")
                 existing_terms[term]["definition"] = definition
         else:
-            # Nếu chưa có câu hỏi
+            # Nếu chưa có thì thêm mới
             print(f"➕ Thêm câu hỏi mới: {term}")
-            source_data["Data"].append(item)
+            quiz_list.append(item)
             existing_terms[term] = item
 
-    # Ghi lại file
+    # Ghi lại file (giữ nguyên cấu trúc quizSrc)
     with open(target_file, "w", encoding="utf-8") as f:
         json.dump(source_data, f, ensure_ascii=False, indent=2)
 
