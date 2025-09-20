@@ -1,80 +1,80 @@
-(async () => {
-  function cleanText(str) {
-    return str.trim().replace(/\s+/g, ' ');
+(function () {
+  const sides = document.querySelectorAll('[data-testid="set-page-term-card-side"]');
+  let results = [];
+
+  // Lấy tiêu đề quiz
+  let sourceTitle = document.querySelector("h1[data-testid='set-page-title']")?.innerText.trim()
+    || document.querySelector("h1")?.innerText.trim()
+    || "Unknown Source";
+
+  function isAnswerSignature(text) {
+    return /^[A-Z](,\s*[A-Z])*$/.test(text.trim());
   }
-  
-  function extractQuestion(raw) {
-    const m = raw.match(/ [A-Z]\. /);
-    if (m) {
-      return raw.substring(0, m.index);
+
+  for (let i = 0; i < sides.length; i += 2) {
+    let side1 = sides[i]?.innerText.trim();
+    let side2 = sides[i + 1]?.innerText.trim();
+    if (!side1 || !side2) continue;
+
+    let rawQuestion, rawAnswer;
+    if (isAnswerSignature(side1)) {
+      rawAnswer = side1;
+      rawQuestion = side2;
+    } else if (isAnswerSignature(side2)) {
+      rawAnswer = side2;
+      rawQuestion = side1;
+    } else {
+      rawQuestion = side1;
+      rawAnswer = side2;
     }
-    return raw;
-  }
 
-  function extractChoices(raw) {
-    const map = {};
-    const m = raw.match(/( [A-Z]\. .*)/);
-    if (!m) return map;
-    const choicesPart = m[1].trim();
-    const parts = choicesPart.split(/ (?=[A-Z]\. )/);
-    parts.forEach(p => {
-      const sub = p.trim();
-      const mm = sub.match(/^([A-Z])\. (.*)/);
-      if (mm) {
-        map[mm[1]] = mm[2];
+    let term = rawQuestion;
+    let definition = rawAnswer;
+
+    if (isAnswerSignature(rawAnswer)) {
+      const letters = rawAnswer.split(",").map(x => x.trim());
+      let questionLines = rawQuestion.split("\n").map(x => x.trim()).filter(x => x);
+      let mainQuestionLines = questionLines.filter(line => !/^[A-Z][\.\)]/.test(line));
+      let mainQuestion = mainQuestionLines.join(" ");
+
+      let options = [];
+      for (let line of questionLines) {
+        if (/^[A-Z][\.\)]/.test(line)) {
+          options.push({ letter: line[0], content: line.substring(2).trim() });
+        }
       }
-    });
-    return map;
+
+      let mappedAnswers = letters
+        .map(letter => {
+          const found = options.find(o => o.letter === letter);
+          return found ? found.content : null;
+        })
+        .filter(Boolean);
+
+      if (mappedAnswers.length > 0) {
+        definition = mappedAnswers.join("   ");
+        term = mainQuestion;
+      }
+    }
+
+    results.push({ term, definition });
   }
-  
-  const sideElems = Array.from(document.querySelectorAll('div[data-testid="set-page-term-card-side"]'));
-  const results = [];
-  
-  for (let i = 0; i < sideElems.length; i += 2) {
-    const qSide = sideElems[i];
-    const aSide = sideElems[i + 1];
-    if (!qSide || !aSide) continue;
-    
-    const qEl = qSide.querySelector('.TermText');
-    const aEl = aSide.querySelector('.TermText');
-    if (!qEl || !aEl) continue;
-    
-    const rawQ = cleanText(qEl.innerText);
-    const rawA = cleanText(aEl.innerText);
-    
-    const question = extractQuestion(rawQ);
-    const choicesMap = extractChoices(rawQ);
-    
-    const letters = rawA.split(',').map(s => s.trim());
-    const corrects = letters.map(letter => choicesMap[letter]).filter(t => t);
-    const definition = corrects.length > 0 ? corrects.join(', ') : rawA;
-    
-    results.push({
-      term: question,
-      definition: definition
-    });
+
+  const finalResult = {
+    Source: sourceTitle,
+    Data: results
+  };
+
+  function copyToClipboard(text) {
+    const el = document.createElement("textarea");
+    el.value = text;
+    document.body.appendChild(el);
+    el.select();
+    document.execCommand("copy");
+    document.body.removeChild(el);
   }
-  
-  let json = JSON.stringify(results, null, 2);
-  
-  // Loại bỏ các \" nếu có
-  // Thay thế \" thành " (chỉ trong nội dung, không ảnh hưởng cấu trúc JSON)
-  json = json.replace(/\\"/g, '"');
-  
-  console.log(json);
 
-  // Tạo blob từ JSON
-  const blob = new Blob([json], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
-
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = 'quizlet_data.json';
-  document.body.appendChild(a);
-  a.click();
-
-  document.body.removeChild(a);
-  URL.revokeObjectURL(url);
-
-  return results;
+  console.log(finalResult);
+  copyToClipboard(JSON.stringify(finalResult, null, 2));
+  alert(`✅ Đã lấy ${results.length} câu hỏi từ: ${sourceTitle} (đã copy vào clipboard)`);
 })();
