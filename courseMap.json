@@ -198,9 +198,14 @@
       "/social-marketing-capstone"
     ]
   },
-  "NLP301c": {
-    "status": "ongoing",
-    "related": []
+    "code": "NLP301c",
+    "status": "done",
+    "moocs": [
+      "/classification-vector-spaces-in-nlp/",
+      "/probabilistic-models-in-nlp/",
+      "/sequence-models-in-nlp/",
+      "/attention-models-in-nlp/"
+    ]
   },
   "NWC203c": {
     "status": "done",
