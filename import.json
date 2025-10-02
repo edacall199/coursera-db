@@ -1,405 +1,45 @@
 {
-  "Source": "SWE201c",
-  "Data": [
-    {
-      "term": "Which of the following software development models can best respond to requirements changes?",
-      "definition": "Agile models"
-    },
-    {
-      "term": "In which of the following software development models are the software development activities performed sequentially rather than in iterations?",
-      "definition": "The Waterfall model"
-    },
-    {
-      "term": "Which of the following are limitations of the waterfall model? Select three.\n\nA. Integration issues may remain undetected until the last phase.\nB. Misinterpretations of requirements or design can remain undetected until the later development phases.\nC. It is not suitable for big projects.\nD. It is difficult to respond to requirements changes.",
-      "definition": "A B D"
-    },
-    {
-      "term": "Which is the right description about the requirement specification process?",
-      "definition": "Requirement specification is a process to identify and specify the problem to solve."
-    },
-    {
-      "term": "Specifying requirements is difficult because (select three):\n\nA. Software is intangible, which makes it difficult to comprehend and communicate.\nB. Terminology can be interpreted in multiple ways depending on the person or the context in which it was used.\nC. The client or end users might not be clear about what they want.\nD. There is no guideline for writing a software requirement specification document.",
-      "definition": "A B C"
-    },
-    {
-      "term": "Why is requirement specification important? Select two.\n\nA. Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle.\nB. Changing the requirement is not possible once the system is fully developed.\nC. Repairing a bug in the requirements can cost thousands of times less than in the later phases of the software development lifecycle.",
-      "definition": "A C"
-    },
-    {
-      "term": "Which of the following are true about requirements and specifications? (Choose all that apply)\n\nA. Specifications shall meet the requirements.\nB. Requirements shall be written in the user's language; system specifications shall be written in the system language.\nC. Requirements call for specification-level refinement.\nD. Requirements are for users; specifications are for developers.",
-      "definition": "A B D"
-    },
-    {
-      "term": "The following are the requirements and specifications of an online banking service. Which of the following can be categorized as (user) requirements? Select two.\n\nA. The user shall be able to check the current balance of the checking accounts that he/she own.\nB. Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.\nC. A user shall be able to use the online banking system securely.\nD. At the time a query is made to check the current balance of a checking account, the owner of the checking account shall be logged in.",
-      "definition": "A C"
-    },
-    {
-      "term": "The following are requirements and specifications of an online banking service. Which of the following can be categorized as system specifications? Select two.\n\nA. A user shall be able to use the online banking system securely.\nB. Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in has been inactive for more than 120 seconds.\nC. At the time a query is made to check the current balance of a checking account, the owner of the checking account shall be logged in.\nD. The user shall be able to check the current balance of the checking accounts that he/she own.",
-      "definition": "B C"
-    },
-    {
-      "term": "A constraint to only use Microsoft Project during the system development is a non-functional requirement.",
-      "definition": "True."
-    },
-    {
-      "term": "Which of the following are non-functional requirements:",
-      "definition": "All of the above."
-    },
-    {
-      "term": "WRSPM stands for:",
-      "definition": "World, Requirement, Specification, Program and Machine."
-    },
-    {
-      "term": "Looking at the difference between user requirements and system specifications in the ATM example, we know that swiping the card and prompting for a PIN are requirements, while reading the card details and a 4-digit PIN are specifications.",
-      "definition": "True."
-    },
-    {
-      "term": "The purpose of the WRSPM model is to ensure that:",
-      "definition": "Specifications meet the requirements."
-    },
-    {
-      "term": "A subsystem in an architecture must:",
-      "definition": "All of the above."
-    },
-    {
-      "term": "Partitioning of a large system into smaller subsystems helps the buy-or-build decision because we can examine each subsystem and reason about possible buy-or-build options for each.",
-      "definition": "True."
-    },
-    {
-      "term": "A good software architecture is important because:\n\nA. It helps organize the workforce and resources.\nB. It allows for parallelization in development.\nC. It helps build-or-buy decisions.\nD. It helps with funding decisions.",
-      "definition": "A B C D"
-    },
-    {
-      "term": "A UNIX program where the output of one program is the input of another, is an example of which of the software architecture models below:",
-      "definition": "Pipe-and-Filter Model."
-    },
-    {
-      "term": "An online banking system is best modeled by:",
-      "definition": "Client-Server Model."
-    },
-    {
-      "term": "A vehicle identification and tracking system, where each moving vehicle is tracked and monitored through a shared program, is best modeled by:",
-      "definition": "Blackboard Model."
-    },
-    {
-      "term": "The difference between subsystems and modules are:",
-      "definition": "Subsystems can independently comprise the business logic by itself while modules can't."
-    },
-    {
-      "term": "Software quality attributes that we care about during software architecture are:\n\nA. Performance.\nB. Reliability.\nC. Testability.\nD. Security.\nE. Usability.",
-      "definition": "A B C D E"
-    },
-    {
-      "term": "Software architecture concerns itself with both estimation and quality but not partitioning.",
-      "definition": "False."
-    },
-    {
-      "term": "Which of the following is considered the most difficult in the software development process?",
-      "definition": "Accurately identifying user needs"
-    },
-    {
-      "term": "What is a Requirements Specification?",
-      "definition": "Both"
-    },
-    {
-      "term": "Based on the NASA statistics on budget and schedule overrun vs. time spent on requirements process, what is the recommended amount of time to spend on the requirements stage?",
-      "definition": "5-10% of the total time spent on the project"
-    },
-    {
-      "term": "Which of the following matches the terms to the correct definition?",
-      "definition": "Requirements - user needs in user language; Specification - solution properties designed to solve problem"
-    },
-    {
-      "term": "Which of these is a user requirement?",
-      "definition": "Allow the user to post a message to Facebook"
-    },
-    {
-      "term": "Which of the following is NOT an example of a non-functional requirement.",
-      "definition": "The user shall be able to select the course number."
-    },
-    {
-      "term": "What element(s) of the WRSPM model belong in the system (including the overlap between environment and system)?",
-      "definition": "S,P,M"
-    },
-    {
-      "term": "Which of these is proper definition of software architecture?",
-      "definition": "partitioning large systems into smaller ones that can be created seperately, have individual business value, and can be easily integrated"
-    },
-    {
-      "term": "Which of the following models is best suited for a system with significant shared data that needs to be shared across a variety of components or sub-systems, somewhat like global variables, but with better data integrity?",
-      "definition": "blackboard"
-    },
-    {
-      "term": "Which of the following models is best suited for a system that includes several subsets of functionality that are used in more than one area of the system?",
-      "definition": "pipe-and-filter"
-    },
-    {
-      "term": "Which of the following models is best suited for a system that benefits from the separation of complexity and processing between work which can be done locally and that which should be completed on a shared, remote service?",
-      "definition": "client-server"
-    },
-    {
-      "term": "Which of the following would be considered a sub-system, rather than a module?",
-      "definition": "A set of classes which generates reports"
-    },
-    {
-      "term": "What element(s) of the WRSPM model belong in the environment (including the overlap between environment and system)?",
-      "definition": "W,R,S"
-    },
-    {
-      "term": "Software design is the process of transforming the stated problem into a ready-to-use implementation.",
-      "definition": "False"
-    },
-    {
-      "term": "Abstract solutions do not require extensive domain knowledge and effectively reduce the costs during the software design phase.",
-      "definition": "False"
-    },
-    {
-      "term": "It is often advised that abstract solutions do not provide optimization details regarding the implementation.",
-      "definition": "True"
-    },
-    {
-      "term": "When it comes to software design, it is always best to follow a solution that is widely popular in the industry",
-      "definition": "False"
-    },
-    {
-      "term": "While a solution coming from software design does not include implementation details, there are still common cases where pseudocode may be provided to correctly capture the sense of a complex algorithm.",
-      "definition": "True"
-    },
-    {
-      "term": "Check all that apply: The four aspects of modularity are...\n\nA. Data Encapsulation\nB. Sort Functions\nC. Components\nD. Information Hiding\nE. Data Hiding\nF. Cohesion\nG. Coupling",
-      "definition": "A D F G"
-    },
-    {
-      "term": "Which of the four aspects of modularity is defined as: How well modules work together.",
-      "definition": "Coupling"
-    },
-    {
-      "term": "Which of the four aspects of modularity can be described as: Abstracting away implementation details.",
-      "definition": "Information Hiding"
-    },
-    {
-      "term": "Which of the four aspects of modularity can be described as: How well a module meets a single well-defined goal.",
-      "definition": "Cohesion"
-    },
-    {
-      "term": "Which of the four aspects of modularity can be described as: Containment of constructs and concepts within a module.",
-      "definition": "Data Encapsulation"
-    },
-    {
-      "term": "Three goals of ______ can be described as (1) Decomposability, (2) Composability, and (3) Ease of Understanding.",
-      "definition": "Modularity"
-    },
-    {
-      "term": "You have a sort function that provides no details on which sorting algorithm is used. This is an example of which aspect of modularity?",
-      "definition": "Information Hiding"
-    },
-    {
-      "term": "A benefit to using ______ is that you know if your data is corrupted, then it must have been corrupted by the module.",
-      "definition": "Data Encapsulation"
-    },
-    {
-      "term": "Choose the most accurate answer: Low coupling aids in...",
-      "definition": "ensuring that changes don't cross boundaries of modules."
-    },
-    {
-      "term": "Which of the following statements about coupling are true?",
-      "definition": "All of the above"
-    },
-    {
-      "term": "The goal in low coupling is to ensure that changes don't cross the boundaries of modules.",
-      "definition": "True"
-    },
-    {
-      "term": "The three types of tight coupling are:",
-      "definition": "Content; Common; External"
-    },
-    {
-      "term": "Module A relies directly on local data of module B. This is an example of what type of coupling?",
-      "definition": "Tight content coupling"
-    },
-    {
-      "term": "Modules A and B both rely on global data or a global variable. This is an example of what type of coupling?",
-      "definition": "Tight common coupling"
-    },
-    {
-      "term": "Modules rely on externally imposed format (or protocol or interface). This is an example of what type of coupling?",
-      "definition": "Tight external coupling"
-    },
-    {
-      "term": "The two types of medium coupling are:",
-      "definition": "Control; Data Structure"
-    },
-    {
-      "term": "Module A controls the logical flow of module B. This is an example of what type of coupling?",
-      "definition": "Medium control coupling"
-    },
-    {
-      "term": "Module A and B both rely on the same composite data structure. This is an example of what type of coupling?",
-      "definition": "Medium data structure coupling"
-    },
-    {
-      "term": "The three types of loose coupling are:",
-      "definition": "Data; Message; None"
-    },
-    {
-      "term": "Modules only share parameters. This is an example of what type of coupling?",
-      "definition": "Loose data coupling"
-    },
-    {
-      "term": "The loosest type of coupling; components only communicate through parameters or message passing. This is an example of what type of coupling?",
-      "definition": "Loose message coupling"
-    },
-    {
-      "term": "Choose the most accurate answer: Cohesion describes...",
-      "definition": "how well everything within a module fits together."
-    },
-    {
-      "term": "Which of the following statements about cohesion is true?",
-      "definition": "All of the above"
-    },
-    {
-      "term": "The goal in real-life software development is to aim for object and functional cohesion and anything less than this should be justified.",
-      "definition": "True"
-    },
-    {
-      "term": "The four types of weak cohesion are:",
-      "definition": "Coincidental, temporal, procedural, logical association"
-    },
-    {
-      "term": "Parts of modules are together in the same file. This is an example of what type of cohesion?",
-      "definition": "Coincidental cohesion"
-    },
-    {
-      "term": "Different pieces of code are activated at the same time. This is an example of what type of cohesion?",
-      "definition": "Temporal cohesion"
-    },
-    {
-      "term": "One piece of code runs after the other. This is an example of what type of cohesion?",
-      "definition": "Procedural cohesion"
-    },
-    {
-      "term": "Components do similar but separate things. This is an example of what type of cohesion?",
-      "definition": "Logical association cohesion"
-    },
-    {
-      "term": "The two types of medium cohesion are:",
-      "definition": "Communicational, sequential"
-    },
-    {
-      "term": "All elements of a component operate on the same input or produce the same output. This is an example of what type of cohesion?",
-      "definition": "Communicational Cohesion"
-    },
-    {
-      "term": "One component's output provides the input to another component. This is an example of what type of cohesion?",
-      "definition": "Sequential Cohesion"
-    },
-    {
-      "term": "The two types of strong cohesion are:",
-      "definition": "Object, functional"
-    },
-    {
-      "term": "Each operation in a module is provided to allow object attributes to be modified or inspected. This is an example of what type of cohesion?",
-      "definition": "Object Cohesion"
-    },
-    {
-      "term": "Every part of a component is necessary for a single well-defined behavior. This is an example of what type of cohesion?",
-      "definition": "Functional Cohesion"
-    },
-    {
-      "term": "True or False: inheritance strengthens cohesion.",
-      "definition": "False"
-    },
-    {
-      "term": "Why should you program when you are alert?",
-      "definition": "All of the above"
-    },
-    {
-      "term": "Which of the following are examples of 'Write code for people not computers'? Select three.\n\nA. Do not code while sleep deprived.\nB. In your comments, explain WHY the code does what it does.\nC. Choose informative variable names.\nD. Let your code (variable names, function names, etc.) explain HOW it does what it does.",
-      "definition": "B C D"
-    },
-    {
-      "term": "Fill in the blank. Write ____, _____, and _____ before writing functional code.",
-      "definition": "Comments; Tests; Exception Handling."
-    },
-    {
-      "term": "If you write the same code more than once...",
-      "definition": "Put that code into a method."
-    },
-    {
-      "term": "True or False: Every method can be written without side effects.",
-      "definition": "False."
-    },
-    {
-      "term": "Deployment occurs in the end stage of active development.",
-      "definition": "True"
-    },
-    {
-      "term": "Product deployment should encapsulate three main focus areas. What are they?\n\nA. Description of the physical environment\nB. Plan for recovery in case of failure\nC. Planned steps\nD. Problem areas",
-      "definition": "B C D"
-    },
-    {
-      "term": "Concerns to address in your deployment plan include:",
-      "definition": "All of the above"
-    },
-    {
-      "term": "A rollback is the reversal of actions completed during deployment with the intent to never revert a system back to its previous working state.",
-      "definition": "False"
-    },
-    {
-      "term": "What are some reasons why you would need a rollback plan? Select two.\n\nA. Installation doesn't go as expected.\nB. It is the end goal in product deployment.\nC. Fixing the problem ends up taking longer than the window allows.\nD. Database management in complex systems.",
-      "definition": "A C"
-    },
-    {
-      "term": "Deployment without a rollback plan should occasionally occur. Especially when the installation involves deleting files.",
-      "definition": "False"
-    },
-    {
-      "term": "The three cutover strategies are...\n\nA. Warm failover\nB. Hot failover\nC. Cold failover\nD. Warm standby\nE. Cold backup\nF. Hot standby",
-      "definition": "B D E"
-    },
-    {
-      "term": "If you need to have a cutover strategy where the replacement machine is ready for a full setup and install, then you would choose which of the following cutover strategies?",
-      "definition": "Cold backup"
-    },
-    {
-      "term": "If you need to have a cutover strategy where the replacement services are ready for the redirection of data with no installation, then you would choose which of the following cutover strategies?",
-      "definition": "Hot failover"
-    },
-    {
-      "term": "If you need to have a cutover strategy where the replacement machine is running and ready for installation, then you would choose which of the following cutover strategies?",
-      "definition": "Warm standby"
-    },
-    {
-      "term": "There is no difference between load balancing and hot failover.",
-      "definition": "false"
-    },
-    {
-      "term": "Test data represents possible inputs that are provided to the _____ for the purposes of testing.",
-      "definition": "both the system and the oracle"
-    },
-    {
-      "term": "The oracle uses information provided from test cases to decide the correctness of the software under test",
-      "definition": "True"
-    },
-    {
-      "term": "Test cases are composed of _______\n\nA. test data\nB. system (actual) outputs\nC. expected outputs",
-      "definition": "A C"
-    },
-    {
-      "term": "Manual oracles are sufficient and effective for the majority of real-world applications",
-      "definition": "False"
-    },
-    {
-      "term": "Choose the correct True-False pair: An error is the manifestation of a failure. A failure is the manifestation of an error.",
-      "definition": "False, True"
-    },
-    {
-      "term": "It is possible for errors to remain undiscovered as long as the erroneous ________ is never used",
-      "definition": "component"
-    },
-    {
-      "term": "Software testing can be used to prove the absense of failures in a module, but not the absense of faults",
-      "definition": "False"
-    }
-  ]
+    "Source": "WED201c",
+    "Data": [
+        {
+            "term": "The default value for the position property is:",
+            "definition": "static"
+        },
+        {
+            "term": "What is wrong with this code?\ndiv{\nposition: static;\nleft: 10px;\n}",
+            "definition": "The code works, but the left property is not necessary since static elements don't allow offsets"
+        },
+        {
+            "term": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?",
+            "definition": "fixed"
+        },
+        {
+            "term": "Which of the following is the proper syntax for a pseudo-class?",
+            "definition": "selector:pseudo-class { property:value; }"
+        },
+        {
+            "term": "Which of the following rules styles the first paragraph in each div?",
+            "definition": "div p:first-child { color: blue; }"
+        },
+        {
+            "term": "Which CSS3 property allows you to change property values smoothly over a given duration?",
+            "definition": "transition"
+        },
+        {
+            "term": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be place in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.",
+            "definition": "z-index"
+        },
+        {
+            "term": "Which rule will change the text color of p elements with the class \"highlight\" when hovered over?",
+            "definition": "p.highlight:hover{ color:green; }"
+        },
+        {
+            "term": "What are the four principles of Accessibility?",
+            "definition": "POUR"
+        },
+        {
+            "term": "What is wrong with this code?\n\ndiv{\nposition: relative;\nleft: 10px;\n}\n\nThe code works, but the left property is not necessary since relative elements don't allow offsets\n\n\nThere is nothing wrong with this code.\n\n\n\"relative\" is not a valid option for position",
+            "definition": "ERROR: No options for answer b"
+        }
+    ]
 }
