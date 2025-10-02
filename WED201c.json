@@ -1142,11 +1142,11 @@
     },
     {
       "term": "Which CSS property controls the text size?",
-      "definition": "font-size"
+      "definition": "text-size"
     },
     {
       "term": "How do you display hyperlinks without an underline?",
-      "definition": "a { text-decoration:none; }"
+      "definition": "a {decoration:no-underline;}"
     },
     {
       "term": "The class selectors are part of the DOM",
@@ -1154,7 +1154,7 @@
     },
     {
       "term": "Using only a default style sheet..",
-      "definition": "will typically make your page look worse"
+      "definition": "will typically make your page look worse."
     },
     {
       "term": "Which property will set the number of columns in an element that is using grid?",
@@ -1690,15 +1690,15 @@
     },
     {
       "term": "What is the correct HTML for referring to an external style sheet?",
-      "definition": "<link rel=\"stylesheet\" href=\"mystyle.css\">"
+      "definition": "<style src=\"mystyle.css\"></style>"
     },
     {
       "term": "What is the correct HTML for referring to an external style sheet stored in a subfolder called css?",
-      "definition": "<link rel=\"stylesheet\" href=\"css/mystyle.css\">"
+      "definition": "<link rel=\"css/stylesheet\" href=\"css/mystyle.css\">"
     },
     {
       "term": "The link to the external style sheet should be in the:",
-      "definition": "<head>"
+      "definition": "Displayable content - <body>"
     },
     {
       "term": "In the following code snippet, what value is given for the left margin?\nmargin: 5px 10px 3px 8px;",
@@ -1706,11 +1706,11 @@
     },
     {
       "term": "The # symbol specifies that the selector is a/an",
-      "definition": "id"
+      "definition": "tag"
     },
     {
       "term": "Which of the following would be used to create class called button which has a width of 750px, a height of 30px and the color of the text is black?",
-      "definition": ".button { height: 30px; width: 750px; color: black; }"
+      "definition": ".button { height: 30px; width: 750px; text: black; }"
     },
     {
       "term": "Which snippet of CSS is commonly used to center an element horizontally?",
@@ -2135,6 +2135,202 @@
     {
       "term": "Consider the following code using Bootstrap 3:\n<div class = \"col-lg-2 col-sm-5\">\nIn a lg viewport the div will be _____ columns wide.",
       "definition": "2"
+    },
+    {
+      "term": "Assume that this code is linked together correctly.\n\np{\ncolor: red;\npadding:10px 5px;\nbackground: black;\n}\n.fancy{\nfont-family: cursive;\nbackground: red;\ncolor: green;\n}\n.plain{\nfont-family: Times, serif;\ncolor: black;\n}\n\n<p class = \"plain fancy\">Hi</p>\n\nWhat color font is used to display \"Hi\"?\n\na, red\n\n\nb, green\n\n\nc, black\n\n\nd, browser default",
+      "definition": "Assume that this code is linked together correctly.\n\np{\ncolor: red;\npadding:10px 5px;\nbackground: black;\n}\n.fancy{\nfont-family: cursive;\nbackground: red;\ncolor: green;\n}\n.plain{\nfont-family: Times, serif;\ncolor: black;\n}\n\n<p class = \"fancy plain \">Hi</p>\n\nWhat color font is used to display \"Hi\"?\n\na, red\n\n\nb, green\n\n\nc, black\n\n\nd, browser default"
+    },
+    {
+      "term": "In the following code snippet, what value is given for the right margin?\nmargin: 5px 10px 3px 8px;",
+      "definition": "10px"
+    },
+    {
+      "term": "Which snippet of CSS is commonly used to center an element horizontally?\n\n\nsite-align: center;\n\n\nmargin: 0 auto;\n\n\nmargin: auto 0;\n\n\nmargin: center;",
+      "definition": "ERROR: No options for answer d"
+    },
+    {
+      "term": "Which of the following is not a browser prefix?",
+      "definition": "edge"
+    },
+    {
+      "term": "Descendant selectors\n\nnav a{\n....\n}\nare more general than child selectors\n\nnav>a{\n....\n}",
+      "definition": "True"
+    },
+    {
+      "term": "How much width will this div occupy?\n\ndiv{\nwidth:100px;\npadding: 10px;\nmargin: 5px;\nborder: 2px;\n}",
+      "definition": "134px"
+    },
+    {
+      "term": "A default style sheet is used to:\n\n\nEliminate differences in browser default styling.\n\n\nInsert the prefixes needed to support different browsers.",
+      "definition": "ERROR: No options for answer a"
+    },
+    {
+      "term": "Question 1\nGiven this rule:\ndiv{\nborder-width:10px 3px 5px 9px;\n}\nwhat is the width of the left border?",
+      "definition": "9px"
+    },
+    {
+      "term": "Question 2\nThe margin is the space between elements.",
+      "definition": "True"
+    },
+    {
+      "term": "Question 3\nPadding is...",
+      "definition": "The space between an element and its border"
+    },
+    {
+      "term": "Question 4\nThe padding and margin properties can be styled with unique colors.",
+      "definition": "False."
+    },
+    {
+      "term": "Question 5\nHow much horizontal space (\"width\") will this div use?\ndiv{\nwidth:50px;\npadding: 10px;\nmargin: 5px;\nborder: 2px;\n}",
+      "definition": "84px"
+    },
+    {
+      "term": "Question 6\nHow much vertical space (\"height\") will this div use?\ndiv{\nheight:50px;\npadding: 5px 10px;\nmargin: 5px;\nborder: 2px;\n}",
+      "definition": "74px"
+    },
+    {
+      "term": "Question 7\nWhich property can remove the underline from links? (Only provide the property name; do not give it a value.)",
+      "definition": "text-decoration"
+    },
+    {
+      "term": "Question 8\nThe text-decoration property is used to style links with an underline. What text-decoration value will remove this underline from a link?",
+      "definition": "none"
+    },
+    {
+      "term": "Question 9\nThe list-style-type property applies to:",
+      "definition": "ordered lists"
+    },
+    {
+      "term": "Question 10\nDescendant selectors\nnav a{\n....\n}\nare more specific than child selectors\nnav a{\n....\n}",
+      "definition": "False"
+    },
+    {
+      "term": "Question 11\nThe id selectors are part of the DOM.",
+      "definition": "True"
+    },
+    {
+      "term": "Question 12\nThe class selectors are part of the DOM",
+      "definition": "True"
+    },
+    {
+      "term": "Question 13\nWhat is true about this code?\n<p class = \"fancy box\"> ....</p>",
+      "definition": "From this code, you can't know which styling will take precedence."
+    },
+    {
+      "term": "Question 14\nThis is probably a typo, why?\n.body{\nmargin: 10px;\n}",
+      "definition": "The period in front of the word body means the browser will look for a class called body, not the element."
+    },
+    {
+      "term": "Question 15\nAssume that this code is linked together correctly.\np{\ncolor: red;\npadding:10px 5px;\nbackground: black;\n}\n.fancy{\nfont-family: cursive;\nbackground: red;\ncolor: green;\n}\n.plain{\nfont-family: Times, serif;\ncolor: black;\n}\n<p>Hi</p>\nWhat color font is used to display \"Hi\"?",
+      "definition": "red"
+    },
+    {
+      "term": "Question 16\nAssume that this code is linked together correctly.\np{\ncolor: red;\npadding:10px 5px;\nbackground: black;\n}\n.fancy{\nfont-family: cursive;\nbackground: red;\ncolor: green;\n}\n.plain{\nfont-family: Times, serif;\ncolor: black;\n}\n<p class = \"plain fancy\">Hi</p>\nWhat color font is used to display \"Hi\"?",
+      "definition": "black"
+    },
+    {
+      "term": "Question 17\nAssume that this code is linked together correctly.\np{\ncolor: red;\npadding:10px 5px;\nbackground: black;\n}\n.fancy{\nfont-family: cursive;\nbackground: red;\ncolor: green;\n}\n.plain{\nfont-family: Times, serif;\ncolor: black;\n}\n<p class = \"fancy plain\">Hi</p>\nWhat color font is used to display \"Hi\"?",
+      "definition": "black"
+    },
+    {
+      "term": "Question 18\nWhat is the correct HTML for referring to an external style sheet?",
+      "definition": "<link rel=\"stylesheet\" href=\"mystyle.css\">"
+    },
+    {
+      "term": "Question 19\nWhat is the correct HTML for referring to an external style sheet stored in a subfolder called css?",
+      "definition": "<link rel=\"stylesheet\" href=\"css/mystyle.css\">"
+    },
+    {
+      "term": "Question 20\nThe styling contained in the style tag has precedence over the style attribute",
+      "definition": "False"
+    },
+    {
+      "term": "Question 21\nWhich CSS property controls the text size?",
+      "definition": "font-size"
+    },
+    {
+      "term": "Question 22\nHow do you display hyperlinks without an underline?",
+      "definition": "a { text-decoration:none; }"
+    },
+    {
+      "term": "Question 23\nIn the following code snippet, what value is given for the right margin?\nmargin: 5px 10px 3px 8px;",
+      "definition": "10px"
+    },
+    {
+      "term": "Question 24\nThe # symbol specifies that the selector is a/an",
+      "definition": "id"
+    },
+    {
+      "term": "Question 25\nWhich of the following would be used to create class called button which has a width of 750px, a height of 30px and the color of the text is black?",
+      "definition": ".button { height: 30px; width: 750px; color: black; }"
+    },
+    {
+      "term": "Question 26\nWhich snippet of CSS is commonly used to center an element horizontally?",
+      "definition": "margin: 0 auto;"
+    },
+    {
+      "term": "Question 27\nUsing only a default style sheet..",
+      "definition": "will typically make your page look worse."
+    },
+    {
+      "term": "Question 28\nA default style sheet is used to:",
+      "definition": "Eliminate differences in browser default styling."
+    },
+    {
+      "term": "Question 29\nWhich of the following is not a browser prefix?",
+      "definition": "edge"
+    },
+    {
+      "term": "Question 30\nDescendant selectors\nnav a{\n....\n}\nare more general than child selectors\nnav a{\n....\n}",
+      "definition": "True"
+    },
+    {
+      "term": "Question 31\nHow much width will this div occupy?\ndiv{\nwidth:100px;\npadding: 10px;\nmargin: 5px;\nborder: 2px;\n}",
+      "definition": "134"
+    },
+    {
+      "term": "Question 32\nThe link to the external style sheet should be in the:",
+      "definition": "Meta-data - <head>"
+    },
+    {
+      "term": "Which CSS property controls the text size?\nA. text-style\nB. text-size\nC. font-height\nD. font-size",
+      "definition": "D. font-size"
+    },
+    {
+      "term": "How do you display hyperlinks without an underline?\nA. a {\nunderline:none;\n}\nB. a {\ntext-decoration:none;\n}\nC. a {\ntext-decoration:no-underline;\n}\nD. a {\ndecoration:no-underline;\n}",
+      "definition": "B. a {\ntext-decoration:none;\n}"
+    },
+    {
+      "term": "In the following code snippet, what value is given for the right margin?\nmargin: 5px 10px 3px 8px;\nA. 5px\nB. 10px\nC. 3px\nD. 8px",
+      "definition": "B. 10px"
+    },
+    {
+      "term": "The # symbol specifies that the selector is a/an\nA. class\nB. tag\nC. id\nD. first",
+      "definition": "C. id"
+    },
+    {
+      "term": "Which of the following would be used to create class called button which has a width of 750px, a height of 30px and the color of the text is black?\nA. #button {\nheight: 30px;\nwidth: 750px;\ncolor: black;\n}\nB. #button {\nheight: 30px;\nwidth: 750px;\ntext: black;\n}\nC. .button {\nheight: 30px;\nwidth: 750px;\ntext: black;\n}\nD. .button {\nheight: 30px;\nwidth: 750px;\ncolor: black;\n}",
+      "definition": "D. .button {\nheight: 30px;\nwidth: 750px;\ncolor: black;\n}"
+    },
+    {
+      "term": "Which snippet of CSS is commonly used to center an element horizontally?\nA. site-align: center;\nB. margin: 0 auto;\nC. margin: auto 0;\nD. margin: center;",
+      "definition": "B. margin: 0 auto;"
+    },
+    {
+      "term": "Using only a default style sheet ...\nA. will typically have no effect on the appearance of your page.\nB. will typically make your page look worse.\nC. will typically make your page look better",
+      "definition": "A. will typically have no effect on the appearance of your page."
+    },
+    {
+      "term": "The margin is the space between elements.\nA. True\nB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Padding is...\nA. The space between an element and its border\nB. The space reserved for an element\nC. The space between two elements",
+      "definition": "A. The space between an element and its border"
+    },
+    {
+      "term": "The padding and margin properties can be styled with unique colors.\nA. False.\nB. True",
+      "definition": "A. False."
     }
   ]
 }
