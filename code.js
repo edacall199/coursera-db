@@ -27,6 +27,25 @@
   }
   
   /**
+   * Check if text is True/False answer
+   * Examples: "T", "F", "True", "False"
+   */
+  function isTrueFalseAnswer(text) {
+    const cleaned = text.trim().toUpperCase();
+    return cleaned === 'T' || cleaned === 'F' || cleaned === 'TRUE' || cleaned === 'FALSE';
+  }
+  
+  /**
+   * Convert True/False answer to full text
+   */
+  function expandTrueFalse(text) {
+    const cleaned = text.trim().toUpperCase();
+    if (cleaned === 'T' || cleaned === 'TRUE') return 'True';
+    if (cleaned === 'F' || cleaned === 'FALSE') return 'False';
+    return text;
+  }
+  
+  /**
    * Parse question text to extract main question and options
    */
   function parseQuestion(text) {
@@ -195,9 +214,20 @@
     
     let rawQuestion, rawAnswer;
     let isAnswerSigFormat = false;
+    let isTrueFalse = false;
     
-    // Determine which side is question and which is answer
-    if (isPureAnswerSignature(side1)) {
+    // Check for True/False answers first
+    if (isTrueFalseAnswer(side1)) {
+      rawAnswer = side1;
+      rawQuestion = side2;
+      isTrueFalse = true;
+    } else if (isTrueFalseAnswer(side2)) {
+      rawAnswer = side2;
+      rawQuestion = side1;
+      isTrueFalse = true;
+    }
+    // Then check for answer signatures
+    else if (isPureAnswerSignature(side1)) {
       rawAnswer = side1;
       rawQuestion = side2;
       isAnswerSigFormat = true;
@@ -228,8 +258,13 @@
     let term = rawQuestion;
     let definition = rawAnswer;
     
+    // Handle True/False questions - no need to parse options
+    if (isTrueFalse) {
+      definition = expandTrueFalse(rawAnswer);
+      term = rawQuestion;
+    }
     // If answer is in signature format, MUST expand it
-    if (isAnswerSigFormat) {
+    else if (isAnswerSigFormat) {
       const parsed = parseQuestion(rawQuestion);
       
       if (parsed.hasOptions) {

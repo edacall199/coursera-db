@@ -1,45 +1,9 @@
 {
-    "Source": "WED201c",
-    "Data": [
-        {
-            "term": "The default value for the position property is:",
-            "definition": "static"
-        },
-        {
-            "term": "What is wrong with this code?\ndiv{\nposition: static;\nleft: 10px;\n}",
-            "definition": "The code works, but the left property is not necessary since static elements don't allow offsets"
-        },
-        {
-            "term": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?",
-            "definition": "fixed"
-        },
-        {
-            "term": "Which of the following is the proper syntax for a pseudo-class?",
-            "definition": "selector:pseudo-class { property:value; }"
-        },
-        {
-            "term": "Which of the following rules styles the first paragraph in each div?",
-            "definition": "div p:first-child { color: blue; }"
-        },
-        {
-            "term": "Which CSS3 property allows you to change property values smoothly over a given duration?",
-            "definition": "transition"
-        },
-        {
-            "term": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be place in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.",
-            "definition": "z-index"
-        },
-        {
-            "term": "Which rule will change the text color of p elements with the class \"highlight\" when hovered over?",
-            "definition": "p.highlight:hover{ color:green; }"
-        },
-        {
-            "term": "What are the four principles of Accessibility?",
-            "definition": "POUR"
-        },
-        {
-            "term": "What is wrong with this code?\n\ndiv{\nposition: relative;\nleft: 10px;\n}\n\nThe code works, but the left property is not necessary since relative elements don't allow offsets\n\n\nThere is nothing wrong with this code.\n\n\n\"relative\" is not a valid option for position",
-            "definition": "ERROR: No options for answer b"
-        }
-    ]
+  "Source": "WED201c",
+  "Data": [
+    {
+      "term": "The default value for (prefers-reduced-motion) without is reduce",
+      "definition": "True"
+    }
+  ]
 }

@@ -2086,7 +2086,7 @@
     },
     {
       "term": "Which Bootstrap class will apply a striped look to a Bootstrap table?",
-      "definition": "table-striped"
+      "definition": ".table-striped"
     },
     {
       "term": "If you created a site with a Bootstrap drop-down menu and it is visible, but not functioning, the problem is probably with...",
@@ -2331,6 +2331,194 @@
     {
       "term": "The padding and margin properties can be styled with unique colors.\nA. False.\nB. True",
       "definition": "A. False."
+    },
+    {
+      "term": "Which of the following is NOT a fluid measurement ?",
+      "definition": "A px"
+    },
+    {
+      "term": "Responsive Web Design is...\nA Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.\nB Designing pages for the mobile view.\nC Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "Adaptive design with dynamic serving is....\nA Designing pages for the mobile view.\nB Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)\nC Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.",
+      "definition": "ERROR: No options for answer B"
+    },
+    {
+      "term": "Which of the following is a true statement about using a separate \"m.\" site for your content?\nA It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places.\nB Some search engines require a .m version of your site.\nC Users have control over which version of the page they can see, regardless of the device they are using.",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "The mobile version of your web page should have the same capabilities of every other version of your site.\nA True\nB False",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "The mobile version of your web page should have the same layout of every other version of your site.\nA True\nB False",
+      "definition": "ERROR: No options for answer B"
+    },
+    {
+      "term": "The fluid measurement % can only be used on non-textual elements\nA True\nB False",
+      "definition": "ERROR: No options for answer B"
+    },
+    {
+      "term": "Responsive sites can have a mixture of fluid and absolute measurements.\nA True\nB False",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "Which of the following statements best describes what pixels, ems, and rems have in common?\nA They are all units of measurement used to define the length of elements on a webpage.\nB They are all fluid units of measurement used to define the length of elements on a webpage.\nC They are all fluid units of measurement that define the screen resolution of a page.",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "Which of the following measurements is relative to the size of its parent element?",
+      "definition": "B em"
+    },
+    {
+      "term": "Which term is ued to define the different viewport sizes that trigger media queries ?",
+      "definition": "D breakpoint"
+    },
+    {
+      "term": "Wireframes should .......\nA specify the layout of your pages\nB specify the layout , color , and content of your pages\nC specify the layout and content of your pages",
+      "definition": "ERROR: No options for answer C"
+    },
+    {
+      "term": "A key component of your wireframes should test\nA interaction\nB color schemes\nC code syntax",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "True or False, Boostrap is mobile-first\nA True\nB False",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "True or False, the Bootstrap grid system works across multiple devices.\nA True\nB False",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "rue or false, Bootstrap is a framework for back-end web development.\nA True\nB False",
+      "definition": "ERROR: No options for answer B"
+    },
+    {
+      "term": "True or false, Bootstrap is a framework for front-end web development.\nA True\nB False",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "Bootstrap uses ...\nA HTML, CSS, and JavaScript\nB CSS\nC HTML\nD HTML & CSS\nE JavaScript",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "True or False, with Bootstrap you need to change your HTML code to utilize the Bootstrap classes.\nA True\nB False",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "If you are using an editor (not CodePen) you will need to reference Bootstrap resources where?\nA In the body section - with a link to the css and js files\nB In the body with a link to jQuery and JavaScript\nC In the head element - with a link to the css - and again at the bottom of the body with a link to jQuery and JavaScript\nD In the head element - with a link to the css and js files",
+      "definition": "ERROR: No options for answer C"
+    },
+    {
+      "term": "Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) is called\nA the .m paradigm\nB Adaptive Design\nC Multi-site design",
+      "definition": "ERROR: No options for answer B"
+    },
+    {
+      "term": "If you created a site with a Bootstrap drop-down menu and it is visible, but not functioning, the problem is probably with...\nA The link to the Bootstrap CSS code.\nB The link to the Bootstrap HTML code.\nC The link to the Bootstrap JavaScript code.",
+      "definition": "ERROR: No options for answer C"
+    },
+    {
+      "term": "Which of the following is a recommended way to incorporate Bootstrap into your code?\nA Use a link to the Content Delivery Network\nB Use a link to the Bootstrap 3 site.",
+      "definition": "ERROR: No options for answer A"
+    },
+    {
+      "term": "Question 1\nConsider the following code using Bootstrap 3:\n<div class = \"col-sm-2 col-lg-4\">\nIn an xs viewport the div will be _____ columns wide.",
+      "definition": "12"
+    },
+    {
+      "term": "Question 2\nConsider the following code using Bootstrap 3:\n<.div class = \"col-md-3 col-lg-7\">\nIn an xs viewport the div will be _____ columns wide.",
+      "definition": "12"
+    },
+    {
+      "term": "Question 3\nConsider the following code using Bootstrap 3:\n<.div class = \"col-md-3 col-lg-7\">\nIn a sm viewport the div will be _____ columns wide.",
+      "definition": "12"
+    },
+    {
+      "term": "Question 4\nConsider the following code using Bootstrap 3:\n<.div class = \"col-md-3 col-lg-7\">\nIn a md viewport the div will be _____ columns wide.",
+      "definition": "3"
+    },
+    {
+      "term": "Question 5\nConsider the following code using Bootstrap 3:\n<div class = \"col-sm-2 col-lg-4\">\nIn a lg viewport the div will be _____ columns wide.",
+      "definition": "4"
+    },
+    {
+      "term": "Question 6\nThis may seem like an odd question, but I am going to ask you what the URL is for the Bootstrap 3 website. I am doing this to help you avoid the heartache of downloading an old version.",
+      "definition": "http://getbootstrap.com/, getbootstrap.com/, http://getbootstrap.com/getting-started/"
+    },
+    {
+      "term": "Question 7\nTrue or False, Boostrap is mobile-first",
+      "definition": "True"
+    },
+    {
+      "term": "Question 8\nThe Bootstrap 3 grid system is based on how many columns?",
+      "definition": "12"
+    },
+    {
+      "term": "Question 9\nA standard navigation pill is created with:",
+      "definition": "<ul class=\"nav nav-pills\">"
+    },
+    {
+      "term": "Question 10\nTrue or False, the Bootstrap grid system works across multiple devices.",
+      "definition": "True"
+    },
+    {
+      "term": "Question 11\nWhich of the following bootstrap classes are used to create a justified tabs navigation? (Reminder, \"justified\" means that they grow/shrink to take up the full width of the screen.)",
+      "definition": "<.ul class=\"nav nav-tabs nav-justified\">"
+    },
+    {
+      "term": "Question 12\nWhich of the following bootstrap classes are used to add a dropdown menu?",
+      "definition": "<.ul class=\"dropdown-menu\">"
+    },
+    {
+      "term": "Question 13\nConsider the following code using Bootstrap 3:\n<.div class = \"col-md-3 col-lg-7\">\nIn an xs viewport the div will be _____ columns wide.",
+      "definition": "12"
+    },
+    {
+      "term": "Question 14\nConsider the following code using Bootstrap 3:\n<.div class = \"col-md-5 col-lg-2\">\nIn a sm viewport the div will be _____ columns wide.",
+      "definition": "12"
+    },
+    {
+      "term": "Question 15\nConsider the following code using Bootstrap 3:\n<.div class = \"col-md-4 col-lg-7\">\nIn a md viewport the div will be _____ columns wide.",
+      "definition": "4"
+    },
+    {
+      "term": "Question 16\nConsider the following code using Bootstrap 3:\n<div class = \"col-sm-8 col-lg-4\">\nIn a md viewport the div will be _____ columns wide.",
+      "definition": "6"
+    },
+    {
+      "term": "Question 17\nTrue or false, Bootstrap is a framework for back-end web development.",
+      "definition": "False"
+    },
+    {
+      "term": "Question 18\nTrue or false, Bootstrap is a framework for front-end web development.",
+      "definition": "True"
+    },
+    {
+      "term": "Question 19\nBootstrap uses ...",
+      "definition": "HTML, CSS, and JavaScript"
+    },
+    {
+      "term": "Question 20\nWhich of the following is a benefit of using the Bootstrap CDN?",
+      "definition": "You always are linked to the latest Bootstrap code."
+    },
+    {
+      "term": "Question 21\nTrue or False, with Bootstrap you need to change your HTML code to utilize the Bootstrap classes.",
+      "definition": "True"
+    },
+    {
+      "term": "Question 22\nThis may seem like an odd question, but I am going to ask you what the URL is for the Bootstrap 3 website. I am doing this to help you avoid the heartache of downloading an old version.",
+      "definition": "http://getbootstrap.com/,%20http://getbootstrap.com/getting-started/#download,%20or%20http://www.getbootstrap.com"
+    },
+    {
+      "term": "Question 23\nIf you are using an editor (not CodePen) you will need to reference Bootstrap resources where?",
+      "definition": "In the head element - with a link to the css - and again at the bottom of the body with a link to jQuery and JavaScript"
+    },
+    {
+      "term": "The default value for (prefers-reduced-motion) without is reduce",
+      "definition": "True"
     }
   ]
 }
