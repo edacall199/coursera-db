@@ -212,10 +212,6 @@
       "/attention-models-in-nlp/"
     ]
 
-  "NLP301c": {
-    "status": "ongoing",
-    "related": []
-
   },
   "NWC203c": {
     "status": "done",
@@ -333,5 +329,6 @@
     ]
   }
 }
+
 
 
