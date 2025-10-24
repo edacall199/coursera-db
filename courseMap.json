@@ -14,10 +14,6 @@
                 "/generative-ai-introduction-and-applications",
               "/building-ai-powered-chatbots",
             "/generative-ai-prompt-engineering-for-everyone"]
-
-    "status": "ongoing",
-    "related": []
-
   },
   "BDI301c": {
     "status": "ongoing",
@@ -337,4 +333,5 @@
     ]
   }
 }
+
 
