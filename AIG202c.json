@@ -1,0 +1,1256 @@
+{
+  "quizSrc": [
+    {
+      "term": "Which of the following is NOT a good way to define AI?\nA. AI is the use of algorithms that enable computers to find patterns without humans having to hard code them manually\nB. AI is Augmented Intelligence and is not intended to replace human intelligence rather extend human capabilities\nC. AI is the application of computing to solve problems in an intelligent way using algorithms.\nD. AI is all about machines replacing human intelligence.",
+      "definition": "D. AI is all about machines replacing human intelligence."
+    },
+    {
+      "term": "Which of the following is an attribute of Strong or Generalized AI?\nA. Cannot teach itself new strategies\nB. Operate with human-level consciousness\nC. Perform independent tasks\nD. Can perform specific tasks, but cannot learn new ones",
+      "definition": "C. Perform independent tasks"
+    },
+    {
+      "term": "AI is the fusion of many fields of study. Which of these fields, along with Computer Science, plays a role in the application of AI?\nA. Mathematics\nB. Philosophy\nC. Statistics\nD. All responses are correct",
+      "definition": "D. All responses are correct"
+    },
+    {
+      "term": "Which of these is NOT a current application of AI?\nA. Collaborative Robots helping humans lift heavy containers\nB. Making precise patient diagnosis and prescribing independent treatment\nC. Classifying rock samples to identify best places to drill for oil\nD. Self-Driving vehicles utilizing Computer Vision to navigate around objects",
+      "definition": "B. Making precise patient diagnosis and prescribing independent treatment"
+    },
+    {
+      "term": "Natural Language AI algorithms that learn by example are the reason we can talk to machines and they can talk back to us.\nA. True\nB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Advances in the field of Computer Vision make which of the following possible?\nA. On-demand online tutors\nB. Real-time transcription\nC. Detecting cancerous moles in skin images\nD. Detecting fraudulent transactions",
+      "definition": "C. Detecting cancerous moles in skin images"
+    },
+    {
+      "term": "Which of these is currently NOT an application of Collaborative Robots or Cobots?\nA. Robots helping move items on shelves for stocking purposes\nB. Robots assisting or replacing humans in jobs that may be dull, dangerous, ineffective or inefficient when done by humans\nC. Personal use in the home such as doing the laundry and cooking for example\nD. Robots helping humans lift heavy containers",
+      "definition": "C. Personal use in the home such as doing the laundry and cooking for example"
+    },
+    {
+      "term": "Which of the following aspects involved in converting the stethoscope into a digital device to support patient diagnoses involves the use of AI?\nA. Graphing heart beat data on the mobile device allowing a physician to spot trends\nB. An app on the mobile device that applies learnings from previous diagnosis data to assist the physicians in their current diagnoses\nC. Inserting a digitizer into the stethoscope tube to convert the analog sound of the heart beat into a digital signal\nD. Sending digital signals to a mobile device with a machine learning app via bluetooth",
+      "definition": "B. An app on the mobile device that applies learnings from previous diagnosis data to assist the physicians in their current diagnoses"
+    },
+    {
+      "term": "Which of the following are applications of Artificial Intelligence in action?\na) IBM Watson utilizing its information retrieval capabilities to provide technical information to oil and gas company workers.\nb) Watson analyzing Grammy nominated song lyrics over a 60-year period and categorizing them based on their emotions.\nc) Assisting patients with neurological damage by detecting patterns in massive movement related datasets and using robots to trigger specific movements in the human body to create new neural pathways in the brain.\nd) Law enforcement authorities using facial recognition algorithms to identify suspects in multiple streams of video footage\nA. All of the options are correct\nB. None of the options are correct\nC. Only options a), b), and c) are correct\nD. Only option a) is correct",
+      "definition": "A. All of the options are correct"
+    },
+    {
+      "term": "Which of the following is NOT a way that AI learns?\nA. Intuitive learning\nB. Reinforcement learning\nC. Unsupervised learning\nD. Supervised learning",
+      "definition": "A. Intuitive learning"
+    },
+    {
+      "term": "Which of these statements is true?\nA. Cognitive systems can only translate small volumes of audio data into their literal text translations at massive speeds\nB. Cognitive systems can only process neatly organized structured data\nC. Cognitive systems can derive mathematically precise answers following a rigid decision tree approach\nD. Cognitive systems can learn from their successes and failures",
+      "definition": "D. Cognitive systems can learn from their successes and failures"
+    },
+    {
+      "term": "Which of these statements is true?\nA. Artificial Intelligence and Machine Learning refer to the same thing since both the terms are often used interchangeably\nB. Deep Learning is a specialized subset of Machine Learning that uses layered neural networks to simulate human decision-making\nC. AI is the subset of Data Science that uses Deep Learning algorithms on structured big data\nD. Data Science is a subset of AI that uses machine learning algorithms to extract meaning and draw inferences from data",
+      "definition": "B. Deep Learning is a specialized subset of Machine Learning that uses layered neural networks to simulate human decision-making"
+    },
+    {
+      "term": "Which of the following is NOT an attribute of Machine Learning?\nA. Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer\nB. Machine Learning defines behavioral rules by comparing large data sets to find common patterns\nC. Takes data and answers as input and uses these inputs to create a set of rules that determine what the Machine Learning model will be\nD. Machine Learning models can be continuously trained",
+      "definition": "A. Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer"
+    },
+    {
+      "term": "Which of the following is NOT an attribute of Unsupervised Learning?\nA. Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer\nB. It is useful for finding hidden patterns and or groupings in data and can be used to differentiate normal behavior with outliers such as fraudulent activity\nC. It is useful for clustering data, where data is grouped according to how similar it is to its neighbors and dissimilar to everything else\nD. The algorithm ingests unlabeled data, draws inferences, and finds patterns from unstructured data",
+      "definition": "A. Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer"
+    },
+    {
+      "term": "Which of the following is an attribute of Supervised Learning?\nA. Relies on providing the machine learning algorithm with a set of rules and constraints and letting it learn how to achieve its goals\nB. Relies on providing the machine learning algorithm unlabeled data and letting the machine infer qualities\nC. Tries its best to maximize its rewards by trying different combinations of allowed actions within the provided constraints\nD. Relies on providing the machine learning algorithm human-labeled data - the more samples you provide, the more precise the algorithm becomes in classifying new data",
+      "definition": "D. Relies on providing the machine learning algorithm human-labeled data - the more samples you provide, the more precise the algorithm becomes in classifying new data"
+    },
+    {
+      "term": "Which of the following statements about datasets used in Machine Learning is NOT true?\nA. Training data is used to fine-tune algorithm's parameters and evaluate how good the model is\nB. Validation data subset is used to validate results and fine-tune the algorithm's parameters\nC. Testing data is data the model has never seen before and is used to evaluate how good the model is\nD. Training subset is the data used to train the algorithm",
+      "definition": "A. Training data is used to fine-tune algorithm's parameters and evaluate how good the model is"
+    },
+    {
+      "term": "When creating deep learning algorithms, developers configure the number of layers and the type of functions that connect the outputs of each layer to the inputs of the next.\nA. True\nB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which of the following fields of application for AI can be used at the airport to flag weapons within luggage passing through the X-ray scanner?\nA. Natural Language\nB. Computer Vision\nC. Speech\nD. Chatbots",
+      "definition": "B. Computer Vision"
+    },
+    {
+      "term": "Which of these activities is NOT required in order for a neural network to synthesize human voice?\nA. Continue to correct the sample and run it through the classifier, repetitively, till an accurate voice sample is created\nB. Deconstruct sentences to decipher the context of use\nC. Generate audio data and run it through the network to see if it validates it as belonging to the subject\nD. Ingest numerous samples of a person's voice until it can tell whether a new voice sample belongs to the same person",
+      "definition": "B. Deconstruct sentences to decipher the context of use"
+    },
+    {
+      "term": "Which one of these ways is NOT how AI learns?\nA. Supervised Learning\nB. Proactive Learning\nC. Unsupervised Learning\nD. Reinforcement Learning",
+      "definition": "B. Proactive Learning"
+    },
+    {
+      "term": "What is AI ethics?\nA. How and why an AI system arrived at a particular outcome or recommendation\nB. An organization's act of governing AI through its corporate instructions, staff, processes, and systems\nC. How to build and use AI in ways that align with human ethics and expectations\nD. A multidisciplinary field that investigates how to maximize AI's beneficial impacts while reducing risks and adverse impacts",
+      "definition": "D. A multidisciplinary field that investigates how to maximize AI's beneficial impacts while reducing risks and adverse impacts"
+    },
+    {
+      "term": "What are the pillars of AI ethics?\nA. Awareness, governance, operationalization\nB. Environmental impact, equitable impact, ethical impact\nC. Explainability, fairness, robustness, transparency, privacy\nD. Trust, efficiency, compliance",
+      "definition": "C. Explainability, fairness, robustness, transparency, privacy"
+    },
+    {
+      "term": "In AI, what is fairness?\nA. An AI system's ability to treat individuals or groups equitably\nB. An AI system's ability to prioritize and safeguard humans' privacy and data rights\nC. An AI system's ability to effectively handle exceptional conditions, like abnormal input or adversarial attacks\nD. An AI system's ability to show how and why it arrived at a particular outcome or recommendation",
+      "definition": "A. An AI system's ability to treat individuals or groups equitably"
+    },
+    {
+      "term": "In AI, what is transparency?\nA. An AI system's ability to treat individuals or groups equitably\nB. When appropriate information is shared with humans about how an AI system was designed and developed\nC. An AI system's ability to effectively handle exceptional conditions, like abnormal input or adversarial attacks\nD. An AI system's ability to show how and why it arrived at a particular outcome or recommendation",
+      "definition": "B. When appropriate information is shared with humans about how an AI system was designed and developed"
+    },
+    {
+      "term": "In AI, what is explainability?\nA. When appropriate information is shared with humans about how an AI system was designed and developed\nB. An AI system's ability to show how and why it arrived at a particular outcome or recommendation\nC. An AI system's ability to effectively handle exceptional conditions, like abnormal input or adversarial attacks\nD. An AI system's ability to treat individuals or groups equitably",
+      "definition": "B. An AI system's ability to show how and why it arrived at a particular outcome or recommendation"
+    },
+    {
+      "term": "In AI, what is robustness?\nA. An AI system's ability to effectively handle exceptional conditions, like abnormal input or adversarial attacks\nB. An AI system's ability to prioritize and safeguard humans' privacy and data rights\nC. An AI system's ability to show how and why it arrived at a particular outcome or recommendation\nD. An AI system's ability to treat individuals or groups equitably",
+      "definition": "A. An AI system's ability to effectively handle exceptional conditions, like abnormal input or adversarial attacks"
+    },
+    {
+      "term": "In AI, what does bias do?\nA. Gives systematic disadvantages to certain groups or individuals\nB. Identifies and addresses socio-technical issues raised by AI\nC. Solves problems faster\nD. Augments human intelligence",
+      "definition": "A. Gives systematic disadvantages to certain groups or individuals"
+    },
+    {
+      "term": "What is a first step toward mitigating bias in AI?\nA. Developing different rules for different risks\nB. Designating a lead AI ethics official\nC. Putting into place a governance structure that works at scale\nD. Assembling diverse teams",
+      "definition": "D. Assembling diverse teams"
+    },
+    {
+      "term": "What is a regulation?\nA. A governance structure that works at scale\nB. A multidisciplinary field that investigates how to maximize AI's beneficial impacts while reducing risks and adverse impacts\nC. A government rule enforceable by law\nD. An organization's act of governing through its corporate instructions, staff, processes, and systems",
+      "definition": "C. A government rule enforceable by law"
+    },
+    {
+      "term": "How does AI governance deliver trustworthy AI?\nA. By augmenting — not replacing — human intelligence\nB. By establishing requirements for accountability, responsibility, and oversight\nC. By assigning responsibility to the party closest to the risk\nD. By testing AI for bias",
+      "definition": "B. By establishing requirements for accountability, responsibility, and oversight"
+    },
+    {
+      "term": "When should developers, data scientists, and other people who work with AI consider ethics?\nA. Only when training the model\nB. Throughout the AI lifecycle\nC. At the end of the AI lifecycle\nD. At the beginning of the AI lifecycle",
+      "definition": "B. Throughout the AI lifecycle"
+    },
+    {
+      "term": "Why is AI ethics a \"socio-technical\" challenge?\nA. Data and insights should belong to their creator\nB. AI is transforming our lives as well as the structure and equilibrium of our society\nC. The purpose of AI is to augment — not replace — human intelligence\nD. New technology, including AI, should be transparent and explainable",
+      "definition": "B. AI is transforming our lives as well as the structure and equilibrium of our society"
+    },
+    {
+      "term": "According to IBM's Betsy Greytok, what is the hottest topic in AI?\nA. How to use AI responsibly\nB. How to use AI in healthcare\nC. How to use AI in hiring\nD. How to use AI in social media and marketing",
+      "definition": "A. How to use AI responsibly"
+    },
+    {
+      "term": "Which of the following are attributes of Weak or Narrow AI?",
+      "definition": "Make decisions based on programmed algorithms and training data in a specific domain   Perform specific tasks"
+    },
+    {
+      "term": "What is the role that philosophy plays in AI?\nA. Determine viable learning models and measure performance\nB. Provide guidance on ethical considerations\nC. Determine the application in software and hardware",
+      "definition": "B. Provide guidance on ethical considerations"
+    },
+    {
+      "term": "In which of the following ways can Artificial Intelligence (AI) be defined?",
+      "definition": "AI is an augmented intelligence, whihc helps human experts make evidence-based informed decisions while the machines do the time-consuming work   AI is the application of computing to help machines solve problems in intelligent ways without humans having to hard code the desired outcomes manually"
+    },
+    {
+      "term": "Which of these statements describes AI accurately from the speakers point of view?\nA. AI will be the downfall of humanity\nB. AI enables computers to understand certain kinds of data that they could not have understood before, such as natural language, auditory and visual data\nC. AI is human intelligence simulated wholly within a computer",
+      "definition": "B. AI enables computers to understand certain kinds of data that they could not have understood before, such as natural language, auditory and visual data"
+    },
+    {
+      "term": "Which of the following are applications of Computer Vision?",
+      "definition": "Self-driving cars   Finding symptoms in X-Ray and MRI scans"
+    },
+    {
+      "term": "Advances in speech-to-text technology are the reason speech-impaired patients are able to speak in their own voice.\nA. True\nB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following aspects involved in converting the stethoscope into a digital device to support patient diagnoses involves the use of AI?\nA. Using a machine learning model trained with previous diagnosis results to assist physicians with their current diagnosis\nB. Amplifying the sound of heart beats so the physician can detect patterns more easily\nC. Inserting a digitizer into the stethoscope tube to convert the analog sound of the heart beat into a digital signal",
+      "definition": "A. Using a machine learning model trained with previous diagnosis results to assist physicians with their current diagnosis"
+    },
+    {
+      "term": "Which of these is NOT an application of AI?\nA. Classifying rock samples to identify best places to drill for oil\nB. Collaborative Robots helping humans lift heavy containers\nC. Precise disease diagnoses and prescribing treatments independently",
+      "definition": "C. Precise disease diagnoses and prescribing treatments independently"
+    },
+    {
+      "term": "AI is being used in the recovery of patients who have suffered a neurological trauma by triggering new neural pathways to form in their brain using robotic devices to trigger corresponding movements in the body.\nA. True\nB. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "In which of these applications did Watson analyse emotional themes and categorize them based on varied human emotions?\nA. Watson collaborating with ESPN to share insights that help Fantasy App users make better decisions to win their weekly matchups\nB. Watson playing Jeopardy to win against two of its greatest champions, Ken Jennings and Brad Rutter\nC. Watson teaming up with the Academy to analyze Grammy nominated song lyrics over a 60 year period and categorize them",
+      "definition": "C. Watson teaming up with the Academy to analyze Grammy nominated song lyrics over a 60 year period and categorize them"
+    },
+    {
+      "term": "Cognitive Systems can interpret data to generate hypotheses about what it means\nA. False\nB. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Which of these statements is true?\nA. Cognitive systems can derive mathematically precise answers following a rigid decision tree approach\nB. Cognitive systems can understand the intent and context in which a word has been used\nC. Cognitive systems can only process neatly organized structured data\nD. Cognitive systems require human intervention in order to to learn from their interactions with humans",
+      "definition": "B. Cognitive systems can understand the intent and context in which a word has been used"
+    },
+    {
+      "term": "Is the following an application of Machine Learning and AI:\nA machine that beats human in a game in which all rules and moves have been pre-programmed into the machine - Yes or No?\nA. Yes\nB. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Data Science is a subset of AI that uses machine learning algorithms to extract meaning and draw inferences from data.\nA. True\nB. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Which of the following are attributes of Machine Learning?",
+      "definition": "Defines behavioral rules by comparing large data sets to find common patterns   Machine learning algorithms can be continuously trained and used in the future to predict values   Takes data and answers as input and use these inputs to create a set of rules that determine what the Machine Learning model will be"
+    },
+    {
+      "term": "We can use reinforcement learning to teach a machine to play chess.\nA. True\nB. False",
+      "definition": "Which of the following are attributes of Classification?\nA. Using classification models we extract features from data and classify results into multiple categories\nB. Classification is the process of predicting the class of given data points\nC. Classification models are built by looking at the relationships between features and results, where results are a continuous variable\nD. Forms of classification include decision trees, support vector machines, logistic regression and random forests"
+    },
+    {
+      "term": "Neural networks are the reason deep learning algorithms become more efficient as the datasets increase in volume.",
+      "definition": "True"
+    },
+    {
+      "term": "Which of the following are attributes of Perceptrons?\nA. Input layers forward the input values to the next layer by means of multiplying by a weight and summing the results\nB. Perceptrons are single-layered neural networks consisting of input nodes connected directly to an output node\nC. Each layer of neurons conducts a mathematical operation on the output of the previous layer\nD. An activation function determines how a node responds to its inputs",
+      "definition": "A. True"
+    },
+    {
+      "term": "This multi-layered neural network makes use of information in long sequences, and perform the same task on every element of the sequence.",
+      "definition": "Recurrent Neural Networks"
+    },
+    {
+      "term": "Which of the following are attributes of backpropagation in Neural Networks?\nA. Backpropagation uses training datasets to train neural networks to match known inputs to desired outputs\nB. The process reduces errors over time by determining how far a given output is from the desired output\nC. An error function determines how far the given output is from the desired output\nD. The process works on the basis of reward and punishment depending on how close the given output is to the desired output",
+      "definition": "A. Recurrent Neural Networks"
+    },
+    {
+      "term": "Which of these is the most complex data for machine learning to work with?",
+      "definition": "Natural Language"
+    },
+    {
+      "term": "Which of the following is an attribute of Natural Language Processing (NLP)?\nA. NLP systems can identify the emotion in which a word is spoken, for example, frustration, confusion, irritation, or fun etc.\nB. NLP systems use a broad array of linguistic models and algorithms to draw inferences from language\nC. NLP systems are provided recorded voice samples with corresponding text to help them discern common patterns\nD. NLP systems can understand intent",
+      "definition": "C. Natural Language"
+    },
+    {
+      "term": "In order for a self-driving vehicle to navigate accurately, it needs to piece together a complete view of its driving environment, which it does with the help of:",
+      "definition": "Laser data   Radar data   Vision data"
+    },
+    {
+      "term": "Which is the biggest limitation of human vision that computer vision can help make up for?",
+      "definition": "Visual Attention"
+    },
+    {
+      "term": "Generative AI models can _________ the training data to create unique content.\nA. Differentiate between\nB. Learn from\nC. Draw conclusions from\nD. Identify patterns and classify",
+      "definition": "A. Visual Attention"
+    },
+    {
+      "term": "What does generative AI do differently than discriminative AI?\nA. Mimics the human ability to analyze data\nB. Mimics the human ability to create data\nC. Mimics the human ability to predict data\nD. Mimics the human ability to classify data",
+      "definition": "B. Learn from"
+    },
+    {
+      "term": "What type of generative AI capability does a large language model primarily exhibit?\nA. Text generation\nB. Image generation\nC. Audio generation\nD. Data augmentation",
+      "definition": "B. Mimics the human ability to create data"
+    },
+    {
+      "term": "Using a generative AI tool, Emily wants to create an image of a zebra-striped cat with a purple hat. Identify the best prompt for this task.\nA. Find a zebra-striped cat that wears a purple hat.\nB. What's the difference between a zebra and a cat?\nC. Draw an image of a zebra-striped cat with a purple hat.\nD. List cat breeds that look like zebras or have stripes.",
+      "definition": "A. Text generation"
+    },
+    {
+      "term": "Tiana is designing a game and decides to create one avatar with specific personality traits. What type of generative AI capability is Tiana using?\nA. Ability to create virtual worlds\nB. Ability to synthesize images\nC. Ability to generate dynamic films\nD. Ability to augment data",
+      "definition": "C. Draw an image of a zebra-striped cat with a purple hat."
+    },
+    {
+      "term": "A metaverse platform with generative AI capabilities will allow you to access _______________, which is not possible with other generative AI tools.\nA. Augmented data sets\nB. Synthetic images\nC. Virtual avatars\nD. Clear and contextually relevant text",
+      "definition": "A. Ability to create virtual worlds"
+    },
+    {
+      "term": "What input data does VideoGPT best respond to?\nA. Image prompts\nB. Text prompts\nC. AI-generated code\nD. Video prompts",
+      "definition": "C. Virtual avatars"
+    },
+    {
+      "term": "What is the impact of generative AI on medical treatments?\nA. Medically literate chatbots\nB. Quicker sentiment analysis\nC. Increased development costs\nD. Hospital policy implementation",
+      "definition": "B. Text prompts"
+    },
+    {
+      "term": "How does generative AI empower the human resource function?\nA. Structuring custom loans\nB. Creating job requisitions\nC. Auto-detecting risky behavior\nD. Increasing the depth of datasets",
+      "definition": "A. Medically literate chatbots"
+    },
+    {
+      "term": "Which of the following generative AI tools is best for researching the latest news or information on any topic?\nA. Bard\nB. Writesonic\nC. Jasper\nD. ChatGPT",
+      "definition": "B. Creating job requisitions"
+    },
+    {
+      "term": "Selina is struggling to put together a presentation. She asks ChatGPT, \"Can you create slides on the last remaining wildflowers in the rainforest?\"\nA. ChatGPT will start to translate your request into another language.\nB. ChatGPT will respond with some basic information on forest flowers.\nC. ChatGPT will provide a step-by-step guide on saving the rainforest.\nD. ChatGPT will suggest the title, content, and visuals for slides.",
+      "definition": "A. Bard"
+    },
+    {
+      "term": "Which code generation is based on the pre-trained language model OpenAI Codex tool and can help Elizabeth generate solution-based code?\nA. ChatGPT\nB. PolyCoder\nC. Amazon CodeWhisperer\nD. GitHub Copilot",
+      "definition": "D. ChatGPT will suggest the title, content, and visuals for slides."
+    },
+    {
+      "term": "Bob wants to convert a painting into a photograph. Which generative AI capability will help him do this best?\nA. Image fusion\nB. Outpainting\nC. Style transfer\nD. Inpainting",
+      "definition": "D. GitHub Copilot"
+    },
+    {
+      "term": "If you want precise control over style for manipulating specific features like a pose or facial expression, which tool here can help you do that best?\nA. StyleGAN\nB. Stable Diffusion\nC. Freepik\nD. DALL-E",
+      "definition": "C. Style transfer"
+    },
+    {
+      "term": "Ravi is debating which Generative AI tool he can use to improve and index his code. Can you guide him based on the tools listed here?\nA. DALL·E\nB. Synthesia\nC. Bard\nD. GitHub Copilot",
+      "definition": "A. StyleGAN"
+    },
+    {
+      "term": "Maria is a scientific visualizer. How can the image-generation capabilities of generative AI help her in her daily work?\nA. Help her convert text into audio using text-to-speech\nB. Help write new code snippets based on functionality\nC. Help her create comprehensive artwork from a simple sketch\nD. Help her generate synthetic datasets for more diversity",
+      "definition": "D. GitHub Copilot"
+    },
+    {
+      "term": "Henri is a robotics engineer and has written a new code. Which Generative AI tool will most likely help him identify and fix bugs in his code?\nA. DALL·E\nB. Pathways Language Model\nC. IBM Watson Code Assistant\nD. WaveGAN",
+      "definition": "C. Help her create comprehensive artwork from a simple sketch"
+    },
+    {
+      "term": "Harsh needs to monitor and detect anomalies in the company software to reduce downtime and prevent critical failures. Which tool can he use to do that?\nA. Watson AIOps\nB. DataRobot\nC. NOLEJ\nD. AIO Logic",
+      "definition": "C. IBM Watson Code Assistant"
+    },
+    {
+      "term": "Taesha is a second-grade teacher wondering how generative AI tools can help her students with special needs and learning disabilities. What do you think?\nA. Track learner progress\nB. Develop diagnostic tools\nC. Enhance code maintainability\nD. Analyze system logs",
+      "definition": "A. Watson AIOps"
+    },
+    {
+      "term": "Nadia was using ChatGPT to debug and correct a code that she was working on. However, when she started to __________, she found this AI tool was struggling to execute the task.\nA. Translate the code into another language\nB. Generate a complex code from scratch\nC. Create a code from image prompts\nD. Ask for guidance on how to run the code",
+      "definition": "A. Track learner progress"
+    },
+    {
+      "term": "Ryan interns for a popular art gallery. He is looking for software to help him remove specific trees from a modernist landscape image. A friend suggested he use ______________ capabilities in DALL-E.\nA. Text-to-image generation\nB. Image-to-image translation\nC. Style transfer\nD. Inpainting",
+      "definition": "B. Generate a complex code from scratch"
+    },
+    {
+      "term": "A prompt is any input or ________ that helps generative AI models produce relevant and logical responses.\nA. Stimulus\nB. Signal\nC. Series of instructions\nD. Trigger",
+      "definition": "D. Inpainting"
+    },
+    {
+      "term": "What is the primary purpose of refining prompts through the process of prompt engineering?\nA. To make prompts longer and more complex\nB. To challenge generative AI models\nC. To encourage prompt diversity\nD. To ensure prompts align with specific goals and expectations",
+      "definition": "C. Series of instructions"
+    },
+    {
+      "term": "How does the streamline mode in PromptPerfect contribute to prompt optimization?\nA. By experimenting with the autocomplete feature\nB. By selecting a relevant model for prompt optimization\nC. By accessing prebuilt prompts as examples\nD. By refining prompts step-by-step until satisfied with the output",
+      "definition": "D. To ensure prompts align with specific goals and expectations"
+    },
+    {
+      "term": "Raechel wants to apply the process of prompt engineering to create an effective prompt for generating creative ideas for the marketing campaign of a new eco-friendly home cleaning product. Identify the best prompt for this task.\nA. Generate ideas to sell a new product in the digital market through marketing campaigns and creative ideas.\nB. Generate three creative and detailed ideas for a digital marketing campaign to promote a new eco-friendly home cleaning product. Consider the target audience, product strengths, marketing channels, and unique propositions for selling the product.\nC. List the benefits of the new eco-friendly home cleaning product through campaigns organized by the company so that more and more people will be attracted to this product.\nD. Give information about the price of an eco-friendly home cleaning product. This will help the customers compare the price of thi ...",
+      "definition": "D. By refining prompts step-by-step until satisfied with the output"
+    },
+    {
+      "term": "How does incorporating the persona pattern dimension enhance prompt effectiveness? Select the best option.\nA. By including a series of questions through multiple prompts\nB. By focusing solely on generic content without historical or fictional references\nC. By increasing the number of words in the prompt\nD. By introducing a sense of character-driven context and perspective",
+      "definition": "B. Generate three creative and detailed ideas for a digital marketing campaign to promote a new eco-friendly home cleaning product. Consider the target audience, product strengths, marketing channels, and unique propositions for selling the product."
+    },
+    {
+      "term": "What is the key benefit of incorporating examples within the prompt?\nA. It adds to the complexity of the prompt.\nB. It makes the prompt more concise.\nC. It helps the model understand the desired purpose.\nD. It reduces the need for context.",
+      "definition": "D. By introducing a sense of character-driven context and perspective"
+    },
+    {
+      "term": "Monica is a writer looking to improve her storytelling by using a large language model (LLM) for creative writing prompts. Which feature of a prompt engineering tool would be most beneficial for her to achieve this goal?\nA. Suggesting different prompt formats (like questions, dialogues, or scenarios) tailored to the preferred storytelling style (such as mystery, romance, or sci-fi)\nB. Providing feedback for prompts based on a given input.\nC. Iteratively refining prompts by adjusting them based on the initial outputs of the LLM's story\nD. Offering a library of pre-defined story beginnings designed for particular genres and themes.",
+      "definition": "C. It helps the model understand the desired purpose."
+    },
+    {
+      "term": "Which of the following techniques helps text prompts guide LLMs to generate responses within specific boundaries, ensuring that the output aligns with the desired requirements?\nA. Bias mitigation\nB. Framing\nC. Domain expertise\nD. Task specification",
+      "definition": "A. Suggesting different prompt formats (like questions, dialogues, or scenarios) tailored to the preferred storytelling style (such as mystery, romance, or sci-fi)"
+    },
+    {
+      "term": "Which of the following prompt engineering approaches involves breaking down complex tasks into easier ones through a sequence of simpler prompts to guide the model toward the intended outcome?\nA. Interview pattern\nB. Tree-of-Thoughts\nC. Chain-of-Thought\nD. Cognitive building",
+      "definition": "B. Framing"
+    },
+    {
+      "term": "How does the interview pattern approach enhance the interaction with generative AI models?\nA. By promoting a back-and-forth exchange of information with the model.\nB. By providing a single static prompt to the model.\nC. By hierarchically structuring a prompt or query\nD. By focusing on a conventional prompting approach",
+      "definition": "C. Chain-of-Thought"
+    },
+    {
+      "term": "Imagine you are planning a business trip, and you want to use the interview pattern approach to prompt an AI model to assist you in planning your itinerary. What would be the benefit of this approach in comparison to a traditional static prompt?\nA. The model will minimize the need for any user interaction\nB. The model will ask for your preferences and adjust the itinerary accordingly\nC. The model will provide a single predetermined itinerary\nD. The model will generate a random travel plan.",
+      "definition": "A. By promoting a back-and-forth exchange of information with the model."
+    },
+    {
+      "term": "Jennifer wants to request some useful information about a complex medical condition using a large language model. Which among the following techniques should she employ on the text prompt to ensure that the generated content is relevant, accurate, and precise for this specialized field?\nA. Domain expertise\nB. Framing\nC. Bias mitigation\nD. Task specification",
+      "definition": "B. The model will ask for your preferences and adjust the itinerary accordingly"
+    },
+    {
+      "term": "Imagine you are a content developer working with LLMs, and you must ensure that the responses generated are indiscriminatory and neutral. Which among the following techniques would you employ with your text prompts to instruct the model appropriately?\nA. Bias mitigation\nB. Contextual guidance\nC. Zero-shot prompting\nD. Few-shot prompting",
+      "definition": "A. Domain expertise"
+    },
+    {
+      "term": "Imagine you are using the Chain-of-Thought approach to teach a generative AI model how to solve a mathematical problem. What is the key component of a prompt in this approach?\nA. A prompt consists of a question and a correct answer for context.\nB. A prompt includes only a question without an answer.\nC. A prompt includes a list of formulae to solve the question.\nD. A prompt includes a series of related questions without the correct answer.",
+      "definition": "A. Bias mitigation"
+    },
+    {
+      "term": "What is the first step in writing a well-structured prompt through the process of prompt engineering?\nA. Testing the prompt for response quality\nB. Analyzing responses from the generative AI model\nC. Refining the prompt based on testing and analysis\nD. Defining the goal",
+      "definition": "A. A prompt consists of a question and a correct answer for context."
+    },
+    {
+      "term": "Why is clarity important when writing prompts for generative AI models?\nA. Clarity helps the model understand the task and produce relevant responses\nB. Clarity helps make the prompt less engaging\nC. Clarity adds to the complexity of the prompt\nD. Clarity ensures the prompt is lengthy",
+      "definition": "D. Defining the goal"
+    },
+    {
+      "term": "Which of the following is the main purpose of using the user feedback loop?\nA. To iteratively refine text prompts based on the response generated by the LLM\nB. To provide explicit instructions to generate neutral responses\nC. To generate meaningful responses without needing prior training on specific prompts\nD. To generate responses with examples",
+      "definition": "A. Clarity helps the model understand the task and produce relevant responses"
+    },
+    {
+      "term": "How does the Tree-of-Thoughts approach differ from traditional linear prompting approaches?\nA. It encourages linear thinking\nB. It explores multiple possibilities simultaneously using a hierarchical structure\nC. It eliminates all possible routes of thinking\nD. It makes random decisions",
+      "definition": "A. To iteratively refine text prompts based on the response generated by the LLM"
+    },
+    {
+      "term": "What is the primary goal of prompt engineering tools?\nA. To design user-friendly interface for generative AI models.\nB. To provide suggestions for improving NLP techniques.\nC. To create applications for language model experiments.\nD. To optimize the creation of prompts for generative AI models.",
+      "definition": "B. It explores multiple possibilities simultaneously using a hierarchical structure"
+    },
+    {
+      "term": "Which among the following statements is accurate about the Tree-of-Thought approach?\nA. The Tree-of-Thought approach enables generative AI models to explore multiple paths simultaneously and assess potential outcomes.\nB. The Tree-of-Thought approach only works for generating responses to marketing-related prompts.\nC. The Tree-of-Thought approach eliminates the need for any prompt instructions or constraints.\nD. The Tree-of-Thought approach is less effective than the Chain-of-Thought approach for generative AI reasoning.",
+      "definition": "D. To optimize the creation of prompts for generative AI models."
+    },
+    {
+      "term": "Which among the following is a platform of integrated tools that can be used to train, tune, deploy, and manage foundation models?\nA. Spellbook\nB. IBM watsonx.ai\nC. PromptPerfect\nD. Dust",
+      "definition": "A. The Tree-of-Thought approach enables generative AI models to explore multiple paths simultaneously and assess potential outcomes."
+    },
+    {
+      "term": "Imagine you are planning a business trip, and you want to use the interview pattern approach to prompt an AI model to assist you in planning your itinerary. What would be the benefit of this approach in comparison to a traditional static prompt?\nA. The model will provide a single predetermined itinerary\nB. The model will ask for your preferences and adjust the itinerary accordingly\nC. The model will minimize the need for any user interaction\nD. The model will generate a random travel plan.",
+      "definition": "B. The model will ask for your preferences and adjust the itinerary accordingly\nGiải thích: Phương pháp \"interview pattern\" cho phép AI hỏi người dùng các câu hỏi để thu thập thông tin, từ đó tạo ra lịch trình tùy chỉnh theo sở thích và yêu cầu cá nhân.\n- A sai: Cung cấp một lịch trình cố định không tận dụng lợi ích của phương pháp này.\n- C sai: \"Interview pattern\" yêu cầu sự tương tác để thu thập thông tin, không phải giảm thiểu tương tác.\n- D sai: Không tạo kế hoạch ngẫu nhiên mà tạo kế hoạch dựa trên thông tin thu thập từ người dùng."
+    },
+    {
+      "term": "What is a significant way in which developers of AI systems can guard against introducing bias?\nA. Using only examples from their own environment as training data.\nB. Using less varied AI systems and datasets.\nC. Providing effective training data and performing regular tests and audits.\nD. Using government approved algorithms.",
+      "definition": "C. Providing effective training data and performing regular tests and audits\nGiải thích: Cách hiệu quả để tránh đưa vào sự thiên lệch là dùng dữ liệu huấn luyện đa dạng, chất lượng và tiến hành kiểm tra, đánh giá định kỳ để phát hiện và xử lý sai lệch.\n- A sai: Chỉ dùng dữ liệu từ môi trường riêng sẽ làm tăng nguy cơ thiên lệch.\n- B sai: Giảm sự đa dạng dữ liệu sẽ làm tăng rủi ro thiên lệch.\n- D sai: Thuật toán được phê duyệt không đảm bảo loại bỏ thiên lệch nếu dữ liệu vẫn thiếu cân bằng."
+    },
+    {
+      "term": "Which of these activities is not required in order for a neural network to synthesize human voice?\nA. Generate audio data and run it through the network to see if it validates it as belonging to the subject\nB. Deconstruct sentences to decipher the context of use\nC. Ingest numerous samples of a person's voice until it can tell whether a new voice sample belongs to the same person\nD. Continue to correct the sample and run it through the classifier, repetitively, till an accurate voice sample is created",
+      "definition": "B. Deconstruct sentences to decipher the context of use\nGiải thích: Việc tổng hợp giọng nói chủ yếu liên quan đến xử lý tín hiệu âm thanh, phân tích đặc trưng giọng và huấn luyện mô hình với dữ liệu giọng nói. Việc giải mã ngữ cảnh của câu (deconstruct sentences) không cần thiết cho quá trình tổng hợp âm thanh thuần túy.\n- A sai: Việc tạo và kiểm tra dữ liệu âm thanh là một phần của quy trình huấn luyện/kiểm thử.\n- C sai: Cần thu thập nhiều mẫu giọng để mô hình nhận diện và tái tạo chính xác.\n- D sai: Quy trình hiệu chỉnh và kiểm thử lặp lại là cần thiết để đạt kết quả chính xác."
+    },
+    {
+      "term": "What do Abu Dhabi National Oil Company (ADNOC) hope that the use of AI will help them achieve?\nA. To understand their business better and retain knowledge.\nB. To eliminate knowledge transfer.\nC. To differentiate their business into educating people about geology.\nD. A production target of 17 million barrels per day.",
+      "definition": "A. To understand their business better and retain knowledge\nGiải thích: ADNOC kỳ vọng AI sẽ giúp họ phân tích dữ liệu, tối ưu hóa quy trình và lưu giữ tri thức nội bộ để hiểu rõ hơn hoạt động kinh doanh của mình.\n- B sai: AI không nhằm mục đích loại bỏ việc truyền đạt kiến thức.\n- C sai: Việc giáo dục về địa chất không phải là mục tiêu chính của ADNOC khi áp dụng AI.\n- D sai: Mục tiêu sản lượng cụ thể không được đề cập trong vai trò trực tiếp của AI ở đây."
+    },
+    {
+      "term": "Which of the following is a concern regarding AI Transparency?\nA. The inability to understand AI algorithms\nB. The clarity in AI decision-making processes\nC. AI systems' inability to learn from data\nD. The ethical use of AI in robotics",
+      "definition": "A. The inability to understand AI algorithms\nGiải thích: Một trong những lo ngại lớn về tính minh bạch của AI là việc khó hiểu hoặc không thể giải thích được cách AI hoạt động và đưa ra quyết định (thường gọi là \"black box problem\").\n- B sai: \"Clarity\" là mục tiêu của tính minh bạch, không phải vấn đề cần lo ngại.\n- C sai: Khả năng học từ dữ liệu liên quan đến hiệu suất, không trực tiếp là vấn đề minh bạch.\n- D sai: Vấn đề đạo đức trong robot là mối quan tâm khác, không phải trọng tâm của minh bạch AI."
+    },
+    {
+      "term": "What is the primary goal of incorporating 'digressions' in chatbot conversations?\nA. To strictly follow pre-defined conversation paths\nB. To limit user interaction choices\nC. To provide diverse and engaging conversation experiences\nD. To avoid conversing with users",
+      "definition": "C. To provide diverse and engaging conversation experiences\nGiải thích: \"Digressions\" trong chatbot là những đoạn hội thoại ngoài lề hoặc khác chủ đề chính, nhằm làm cuộc trò chuyện trở nên tự nhiên, thú vị và phong phú hơn cho người dùng.\n- A sai: Theo sát kịch bản cố định trái với mục tiêu của digressions.\n- B sai: Digressions mở rộng lựa chọn tương tác, không hạn chế chúng.\n- D sai: Digressions vẫn là một dạng trò chuyện, không phải tránh giao tiếp."
+    },
+    {
+      "term": "Which aspect of chatbot development focuses on implementing 'digressions'?\nA. Hardware optimizations\nB. Conversation flow and engagement\nC. Data encryption protocols\nD. Graphics design in chat interfaces",
+      "definition": "B. Conversation flow and engagement\nGiải thích: \"Digressions\" là phần giúp chatbot mở rộng chủ đề trò chuyện để tăng sự tự nhiên và thu hút, nên thuộc về khía cạnh thiết kế luồng hội thoại và sự gắn kết với người dùng.\n- A sai: Tối ưu phần cứng không liên quan đến xây dựng nội dung hội thoại.\n- C sai: Giao thức mã hóa dữ liệu liên quan đến bảo mật, không phải luồng trò chuyện.\n- D sai: Thiết kế đồ họa giao diện chat là yếu tố thị giác, không phải nội dung hội thoại."
+    },
+    {
+      "term": "What is the primary viewpoint on ethical concerns with AI systems based on the text?\nA. Something that can't be mitigated for.\nB. Not genuinely troubling, and the concern of very few AI experts.\nC. Something that should be the concern of every AI developer, so they can be mitigated for as AI systems are developed.\nD. Short term and easily addressed when developing new AI systems.",
+      "definition": "C. Something that should be the concern of every AI developer, so they can be mitigated for as AI systems are developed\nGiải thích: Quan điểm chính là các vấn đề đạo đức trong AI cần được tất cả nhà phát triển chú ý ngay từ giai đoạn thiết kế và phát triển, để có biện pháp giảm thiểu rủi ro kịp thời.\n- A sai: Các vấn đề đạo đức có thể giảm thiểu nếu được xử lý đúng cách.\n- B sai: Đây không phải là mối quan tâm của chỉ một số ít chuyên gia AI.\n- D sai: Không phải vấn đề ngắn hạn và dễ giải quyết, mà cần giám sát liên tục."
+    },
+    {
+      "term": "How do chatbots use dialog management to guide conversations with users?\nA. By ignoring user input\nB. By following a predefined sequence of interactions based on the user's responses\nC. By generating random responses\nD. By terminating the conversation after a set number of interactions",
+      "definition": "B. By following a predefined sequence of interactions based on the user's responses\nGiải thích: Dialog management là cách chatbot điều khiển luồng hội thoại, thường dựa trên một kịch bản hoặc quy trình định trước và điều chỉnh theo phản hồi của người dùng.\n- A sai: Bỏ qua đầu vào của người dùng sẽ khiến hội thoại thất bại.\n- C sai: Trả lời ngẫu nhiên không đảm bảo mục tiêu hội thoại.\n- D sai: Việc kết thúc sau số lần tương tác cố định không phải là cách quản lý hội thoại."
+    },
+    {
+      "term": "Which of the following is NOT an attribute of Machine Learning?\nA. Takes data and answers as input and uses these inputs to create a set of rules that determine what the Machine Learning model will be\nB. Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer\nC. Machine Learning models can be continuously trained\nD. Machine Learning defines behavioral rules by comparing large data sets to find common patterns",
+      "definition": "B. Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer\nGiải thích: Machine Learning thường sử dụng dữ liệu và kết quả mong muốn (answers) để tự học và tạo ra mô hình, chứ không yêu cầu các \"rules\" (luật) được lập sẵn để đưa ra câu trả lời. Việc cung cấp sẵn dữ liệu và luật là đặc điểm của lập trình truyền thống, không phải ML.\n- A đúng: ML dùng dữ liệu và kết quả để tạo ra mô hình.\n- C đúng: ML có thể được huấn luyện liên tục với dữ liệu mới.\n- D đúng: ML tìm ra các quy luật hành vi bằng cách phân tích và so sánh tập dữ liệu lớn để phát hiện mẫu chung."
+    },
+    {
+      "term": "How are 'slots' used in the context of chatbot interactions?\nA. To identify network vulnerabilities\nB. To manage and capture specific pieces of information from users\nC. To optimize website speed\nD. To conduct financial transactions",
+      "definition": "B. To manage and capture specific pieces of information from users\nGiải thích: Trong chatbot, \"slots\" là các biến hoặc trường dữ liệu được sử dụng để lưu trữ thông tin mà chatbot thu thập từ người dùng trong quá trình hội thoại, ví dụ: tên, ngày, địa điểm.\n- A sai: Xác định lỗ hổng mạng là nhiệm vụ bảo mật, không liên quan đến slots trong chatbot.\n- C sai: Tối ưu tốc độ website không liên quan đến cơ chế lưu trữ thông tin hội thoại.\n- D sai: Thực hiện giao dịch tài chính không phải là chức năng chính của slots."
+    },
+    {
+      "term": "What is the primary goal of prompt engineering tools?\nA. To optimize the creation of prompts for generative AI models.\nB. To create applications for language model experiments.\nC. To design user-friendly interface for generative AI models.\nD. To provide suggestions for improving NLP techniques.",
+      "definition": "A. To optimize the creation of prompts for generative AI models\nGiải thích: Prompt engineering tools được thiết kế để giúp tạo ra các câu lệnh (prompts) tối ưu, nhằm hướng dẫn mô hình AI sinh nội dung đúng ý người dùng.\n- B sai: Tạo ứng dụng cho thí nghiệm mô hình ngôn ngữ là mục tiêu rộng hơn, không chỉ riêng prompt engineering.\n- C sai: Thiết kế giao diện thân thiện không phải mục tiêu chính của prompt engineering.\n- D sai: Gợi ý cải thiện kỹ thuật NLP không phải mục tiêu trực tiếp của công cụ này."
+    },
+    {
+      "term": "Which of the following NOT a way AI is being used to benefit humanity?\nA. In healthcare, AI is being used to interpret scans for early detection of cancer, eye disease, and other problems.\nB. Crime: to identify criminals before they commit a crime.\nC. In healthcare, AI is being used to predict where the next outbreak of a disease will occur.\nD. In agriculture, AI is being used to identify and recommend treatment for plant diseases.",
+      "definition": "B. Crime: to identify criminals before they commit a crime\nGiải thích: Việc xác định tội phạm trước khi họ phạm tội là một vấn đề gây tranh cãi về đạo đức và pháp lý, không phải ứng dụng phổ biến hay được chấp nhận rộng rãi để mang lại lợi ích cho nhân loại.\n- A đúng: AI đang hỗ trợ chẩn đoán sớm bệnh tật.\n- C đúng: AI giúp dự đoán vùng dịch bùng phát để phòng chống.\n- D đúng: AI hỗ trợ nông nghiệp bằng cách phát hiện và đưa ra cách xử lý bệnh cây trồng."
+    },
+    {
+      "term": "Which aspect of chatbot development does the 'Dialog' module emphasize?\nA. Software development methodologies\nB. Managing conversational flow and responses\nC. Augmented reality technologies\nD. Network security protocols",
+      "definition": "B. Managing conversational flow and responses\nGiải thích: 'Dialog' module trong phát triển chatbot tập trung vào việc điều khiển luồng hội thoại và phản hồi để chatbot có thể giao tiếp tự nhiên và hợp lý với người dùng.\n- A sai vì phương pháp phát triển phần mềm là khía cạnh chung, không phải trọng tâm của 'Dialog'.\n- C sai vì công nghệ thực tế tăng cường không liên quan đến module này.\n- D sai vì giao thức bảo mật mạng thuộc về bảo mật hệ thống, không phải quản lý hội thoại."
+    },
+    {
+      "term": "Which of the following is a benefit of having an integrated AI system in a call center environment?\nA. Reducing costs\nB. Eliminating the need for human agents.\nC. Decreasing agent satisfaction due to fear of job loss.\nD. Increasing agent turnover",
+      "definition": "A. Reducing costs\nGiải thích: AI tích hợp trong môi trường tổng đài giúp tối ưu hóa quy trình, giảm thời gian xử lý và tự động hóa các tác vụ lặp lại, từ đó giảm chi phí vận hành.\n- B sai vì AI không hoàn toàn loại bỏ nhu cầu nhân viên con người, đặc biệt trong các tình huống phức tạp.\n- C sai vì đây là tác động tiêu cực, không phải lợi ích.\n- D sai vì tăng tỷ lệ nghỉ việc của nhân viên là một vấn đề, không phải lợi ích."
+    },
+    {
+      "term": "Imagine you are using the Chain-of-Thought approach to teach a generative AI model how to solve a mathematical problem. What is the key component of a prompt in this approach?\nA. A prompt includes only a question without an answer.\nB. A prompt includes a list of formulae to solve the question.\nC. A prompt consists of a question and a correct answer for context.\nD. A prompt includes a series of related questions without the correct answer.",
+      "definition": "C. A prompt consists of a question and a correct answer for context.\nGiải thích: Trong phương pháp Chain-of-Thought, lời nhắc thường chứa cả câu hỏi và đáp án đúng để AI học cách suy luận từng bước từ câu hỏi đến đáp án.\n- A sai vì chỉ đưa câu hỏi không đủ thông tin để học mô hình suy luận.\n- B sai vì chỉ có công thức mà không có ví dụ đầy đủ thì AI không học được chuỗi suy nghĩ.\n- D sai vì nhiều câu hỏi mà không có đáp án cũng không hướng dẫn AI cách lập luận."
+    },
+    {
+      "term": "AI is the fusion of many fields of study. Which of these fields, along with Computer Science, plays a role in the application of AI?\nA. All responses are correct\nB. Mathematics\nC. Philosophy\nD. Statistics",
+      "definition": "A. All responses are correct\nGiải thích: AI kết hợp nhiều lĩnh vực như Toán học (thuật toán, tối ưu hóa), Thống kê (phân tích dữ liệu, mô hình xác suất), và Triết học (đạo đức AI, logic). Cả ba lĩnh vực này, cùng với Khoa học máy tính, đều đóng vai trò quan trọng.\n- B, C, D sai vì chỉ chọn một lĩnh vực, trong khi AI cần sự tổng hợp từ tất cả."
+    },
+    {
+      "term": "Which of the following is NOT an example of an entity for a travel chatbot?\nA. Destination\nB. Departure time\nC. GreetUser\nD. Number of passengers",
+      "definition": "C. GreetUser\nGiải thích: Trong chatbot, \"entity\" là dữ liệu hoặc thông tin cụ thể mà hệ thống cần nhận diện và xử lý, như điểm đến, thời gian khởi hành hoặc số lượng hành khách. \"GreetUser\" là một hành động hoặc intent (mục đích hội thoại), không phải là một entity.\n- A, B, D đều là các entity chứa dữ liệu cần cho việc đặt vé hoặc lập kế hoạch chuyến đi."
+    },
+    {
+      "term": "Why is clarity important when writing prompts for generative AI models?\nA. Clarity helps make the prompt less engaging\nB. Clarity helps the model understand the task and produce relevant responses\nC. Clarity adds to the complexity of the prompt\nD. Clarity ensures the prompt is lengthy",
+      "definition": "B. Clarity helps the model understand the task and produce relevant responses\nGiải thích: Sự rõ ràng trong lời nhắc giúp mô hình AI nắm bắt chính xác yêu cầu và bối cảnh, từ đó tạo ra câu trả lời phù hợp và đúng mục tiêu.\n- A sai vì rõ ràng không làm cho lời nhắc kém hấp dẫn.\n- C sai vì rõ ràng không đồng nghĩa với phức tạp, mà thường là đơn giản và dễ hiểu.\n- D sai vì rõ ràng không có nghĩa là dài dòng, lời nhắc rõ ràng có thể ngắn gọn."
+    },
+    {
+      "term": "Which of the following is NOT a common prompt engineering technique?\nA. Adapting prompts based on user feedback\nB. Using pre-trained language models without any prompts\nC. Adjusting the temperature parameter during model generation\nD. Designing prompts to elicit specific types of responses",
+      "definition": "B. Using pre-trained language models without any prompts\nTóm tắt: Prompt engineering luôn liên quan đến việc tạo hoặc chỉnh sửa prompt để đạt kết quả mong muốn. Việc dùng mô hình ngôn ngữ đã huấn luyện mà không kèm prompt không được coi là kỹ thuật prompt engineering.\n- A sai: Thích ứng prompt dựa trên phản hồi người dùng là kỹ thuật phổ biến.\n- C sai: Điều chỉnh tham số temperature để kiểm soát tính sáng tạo của mô hình là kỹ thuật hỗ trợ phổ biến.\n- D sai: Thiết kế prompt để gợi ra loại phản hồi cụ thể là kỹ thuật cốt lõi."
+    },
+    {
+      "term": "What are \"context variables\" in the context of artificial intelligence and chatbots?\nA. Variables used to store the state or context of a conversation or interaction\nB. Variables that represent the emotions of the chatbot during a conversation\nC. Variables that store the user's personal information\nD. Variables used to determine the intent of the user's input",
+      "definition": "A. Variables used to store the state or context of a conversation or interaction\nTóm tắt: Context variables giúp chatbot nhớ và duy trì trạng thái hoặc bối cảnh của cuộc trò chuyện, cho phép phản hồi mạch lạc hơn.\n- B sai: Biểu diễn cảm xúc chatbot không phải chức năng chính của context variables.\n- C sai: Lưu thông tin cá nhân người dùng là nhiệm vụ của dữ liệu người dùng, không phải context variables.\n- D sai: Xác định ý định người dùng là nhiệm vụ của intent recognition, không phải context variables."
+    },
+    {
+      "term": "What is the primary purpose of a chatbot in the field of artificial intelligence?\nA. To navigate websites\nB. To automate repetitive tasks\nC. To process images\nD. To perform complex calculations",
+      "definition": "B. To automate repetitive tasks\nTóm tắt: Chatbots chủ yếu được dùng để tự động hóa các tác vụ lặp lại như trả lời câu hỏi thường gặp, hỗ trợ khách hàng, hay xử lý các yêu cầu đơn giản.\n- A sai: Dù chatbot có thể hỗ trợ điều hướng website, nhưng đây không phải mục đích chính.\n- C sai: Xử lý hình ảnh thuộc lĩnh vực computer vision, không phải chức năng chính của chatbot.\n- D sai: Thực hiện tính toán phức tạp là nhiệm vụ của các hệ thống tính toán chuyên biệt, không phải chatbot."
+    },
+    {
+      "term": "Monica is a writer looking to improve her storytelling by using a large language model (LLM) for creative writing prompts. Which feature of a prompt engineering tool would be most beneficial for her to achieve this goal?\nA. Iteratively refining prompts by adjusting them based on the initial outputs of the LLM's story\nB. Providing feedback for prompts based on a given input\nC. Suggesting different prompt formats (like questions, dialogues, or scenarios) tailored to the preferred storytelling style (such as mystery, romance, or sci-fi)\nD. Offering a library of pre-defined story beginnings designed for particular genres and themes",
+      "definition": "C. Suggesting different prompt formats (like questions, dialogues, or scenarios) tailored to the preferred storytelling style (such as mystery, romance, or sci-fi)\nTóm tắt: Việc gợi ý các định dạng prompt khác nhau phù hợp với phong cách kể chuyện giúp Monica dễ dàng sáng tạo nội dung mới và đa dạng hơn.\n- A sai: Chỉnh sửa lặp lại dựa trên kết quả ban đầu hữu ích, nhưng không trực tiếp cung cấp ý tưởng sáng tạo mới.\n- B sai: Phản hồi về prompt không đảm bảo tạo ra các phong cách kể chuyện khác nhau.\n- D sai: Thư viện câu chuyện mở đầu chỉ giới hạn trong những mẫu sẵn có, không linh hoạt bằng việc gợi ý định dạng prompt tùy chỉnh."
+    },
+    {
+      "term": "Tiana is designing a game and decides to create one avatar with specific personality traits. What type of generative AI capability is Tiana using?\nA. Ability to create virtual worlds\nB. Ability to augment data\nC. Ability to generate dynamic films\nD. Ability to synthesize images",
+      "definition": "D. Ability to synthesize images\nTóm tắt: Việc tạo ra một avatar với các đặc điểm và tính cách cụ thể thuộc khả năng tổng hợp hình ảnh của AI.\n- A sai: Tạo thế giới ảo liên quan đến môi trường và không gian tổng thể, không chỉ nhân vật đơn lẻ.\n- B sai: Bổ sung dữ liệu (augment data) thường phục vụ cho huấn luyện mô hình, không trực tiếp tạo avatar.\n- C sai: Tạo phim động đề cập đến chuỗi hình ảnh/video, không phù hợp với tình huống chỉ tạo một avatar tĩnh hoặc có hình ảnh."
+    },
+    {
+      "term": "Which of the following tasks would an AI be able to perform the LEAST successfully?\nA. Suggesting what someone might want to buy from a shopping website\nB. Using traffic data to work out what cars people are likely to buy\nC. Writing a joke\nD. Playing hangman",
+      "definition": "C. Writing a joke\nTóm tắt: Việc viết truyện cười đòi hỏi sự sáng tạo, hài hước, và cảm nhận văn hóa — những yếu tố mà AI thường gặp khó khăn để làm một cách tự nhiên và hấp dẫn.\n- A sai: AI có thể dễ dàng gợi ý sản phẩm dựa trên dữ liệu hành vi người dùng.\n- B sai: Phân tích dữ liệu giao thông để dự đoán xe được ưa chuộng nằm trong khả năng xử lý dữ liệu của AI.\n- D sai: Chơi hangman chỉ cần suy luận chữ cái và dự đoán từ, AI có thể làm tốt."
+    },
+    {
+      "term": "Which one of these jobs COULD NOT be taken by a robot with AI?\nA. Bank clerk\nB. Doctor\nC. Telephone sales person\nD. Shop worker",
+      "definition": "B. Doctor\nTóm tắt: Dù AI có thể hỗ trợ chẩn đoán và phân tích y tế, nhưng công việc của bác sĩ đòi hỏi khả năng phán đoán lâm sàng, giao tiếp cảm xúc, và đưa ra quyết định đạo đức — những yếu tố khó có thể thay thế hoàn toàn bằng AI.\n- A sai: Nhiều nhiệm vụ của nhân viên ngân hàng có thể được tự động hóa qua AI.\n- C sai: Bán hàng qua điện thoại có thể được tự động hóa bằng chatbot hoặc hệ thống AI.\n- D sai: Một số công việc bán hàng tại cửa hàng có thể được robot hoặc kiosk tự động đảm nhận."
+    },
+    {
+      "term": "Which of the following would be a GOOD question to ask, if you were testing to see if you were talking to a human or a computer?\nA. What is the capital of Argentina?\nB. What is your favorite food?\nC. What is the square root of one million?\nD. Who has scored the most goals in Premier League history?",
+      "definition": "B. What is your favorite food?\nTóm tắt: Câu hỏi về sở thích cá nhân đòi hỏi phản hồi mang tính cảm xúc, trải nghiệm cá nhân — điều mà AI khó trả lời một cách chân thật như con người.\n- A sai: Câu hỏi kiến thức thực tế, AI dễ trả lời.\n- C sai: Câu hỏi toán học đơn giản, AI có thể trả lời ngay lập tức.\n- D sai: Câu hỏi tra cứu dữ liệu, AI dễ dàng trả lời chính xác."
+    },
+    {
+      "term": "What type of generative AI capability does a large language model primarily exhibit?\nA. Image generation\nB. Audio generation\nC. Text generation",
+      "definition": "C. Text generation\nTóm tắt: Mô hình ngôn ngữ lớn (LLM) chủ yếu được thiết kế để tạo và xử lý văn bản dựa trên đầu vào ngôn ngữ tự nhiên.\n- A sai: Tạo hình ảnh thuộc lĩnh vực của các mô hình AI chuyên biệt cho thị giác máy tính (như diffusion models).\n- B sai: Tạo âm thanh là nhiệm vụ của các mô hình AI chuyên về audio, không phải chức năng chính của LLM."
+    },
+    {
+      "term": "Generative AI models can _______ the training data to create unique content.\nA. Differentiate between\nB. Draw conclusions from\nC. Learn from\nD. Identify patterns and classify",
+      "definition": "C. Learn from\nTóm tắt: Mô hình AI sinh (Generative AI) học từ dữ liệu huấn luyện để tạo ra nội dung mới và độc đáo.\n- A sai: \"Differentiate between\" thiên về phân biệt, thường dùng trong các mô hình phân loại.\n- B sai: \"Draw conclusions from\" liên quan đến suy luận, không phải chức năng chính khi tạo nội dung mới.\n- D sai: \"Identify patterns and classify\" phù hợp với AI phân loại hơn là AI sinh."
+    },
+    {
+      "term": "Which of these statements is true?\nA. Cognitive systems can only translate small volumes of audio data into their literal text translations at massive speeds\nB. Cognitive systems can derive mathematically precise answers following a rigid decision tree approach\nC. Cognitive systems can only process neatly organized structured data\nD. Cognitive systems can learn from their successes and failures",
+      "definition": "D. Cognitive systems can learn from their successes and failures\nTóm tắt: Hệ thống nhận thức (cognitive systems) được thiết kế để học hỏi và cải thiện dựa trên cả thành công lẫn thất bại, từ đó nâng cao hiệu quả xử lý.\n- A sai: Chúng có thể xử lý khối lượng lớn dữ liệu âm thanh, không chỉ giới hạn ở lượng nhỏ.\n- B sai: Không chỉ giới hạn ở các phương pháp quyết định cứng nhắc như decision tree.\n- C sai: Có khả năng xử lý cả dữ liệu không cấu trúc (unstructured data) như văn bản, hình ảnh, và âm thanh."
+    },
+    {
+      "term": "What is the primary definition of a chatbot among the following options?\nA. A computer program to mimic human conversation.\nB. A robot that can interact with people.\nC. A program to chat with friends.\nD. A game we play online.",
+      "definition": "A. A computer program to mimic human conversation.\nTóm tắt: Chatbot là một chương trình máy tính được thiết kế để mô phỏng cuộc trò chuyện của con người, thường qua văn bản hoặc giọng nói.\n- B sai: Chatbot không nhất thiết phải là robot vật lý, có thể chỉ tồn tại dưới dạng phần mềm.\n- C sai: Chatbot không chỉ để trò chuyện với bạn bè, mà còn phục vụ nhiều mục đích khác như hỗ trợ khách hàng.\n- D sai: Chatbot không phải là trò chơi trực tuyến."
+    },
+    {
+      "term": "Which field of AI involves interpreting visual information from images or videos?\nA. Natural Language Processing (NLP)\nB. Robotics\nC. Computer Vision\nD. Machine Learning",
+      "definition": "C. Computer Vision — Đây là lĩnh vực AI chuyên xử lý và phân tích dữ liệu hình ảnh hoặc video để trích xuất thông tin.\nA sai vì NLP tập trung vào xử lý ngôn ngữ tự nhiên, không phải hình ảnh.\nB sai vì Robotics là ngành chế tạo và điều khiển robot, có thể dùng computer vision nhưng không đồng nghĩa với việc giải thích hình ảnh.\nD sai vì Machine Learning là khái niệm rộng bao gồm nhiều lĩnh vực, trong đó có computer vision, nhưng không chỉ chuyên về hình ảnh."
+    },
+    {
+      "term": "A prompt is any input or ________ that helps generative AI models produce relevant and logical responses.\nA. Series of instructions\nB. Trigger\nC. Signal\nD. Stimulus",
+      "definition": "D. Stimulus — \"Prompt\" trong AI là bất kỳ dữ liệu hay kích thích (stimulus) nào được cung cấp để mô hình tạo ra phản hồi phù hợp.\nA sai vì \"series of instructions\" là dạng chỉ dẫn cụ thể, nhưng prompt có thể đơn giản hơn và không nhất thiết phải là chuỗi chỉ dẫn.\nB sai vì \"trigger\" ám chỉ tác nhân kích hoạt, nhưng trong AI không phải lúc nào prompt cũng là một sự kiện kích hoạt.\nC sai vì \"signal\" là dạng tín hiệu chung, không phản ánh đúng ý nghĩa của prompt trong bối cảnh generative AI."
+    },
+    {
+      "term": "How can prompt engineering help improve the performance of AI models?\nA. By generating random prompts for training data\nB. By ensuring that prompts are designed to elicit relevant and coherent responses\nC. By ignoring prompts and allowing the model to generate output autonomously\nD. By training models using only prompts that produce desired responses",
+      "definition": "B. By ensuring that prompts are designed to elicit relevant and coherent responses — Prompt engineering tối ưu hóa cách đặt câu hỏi hoặc cung cấp dữ liệu đầu vào để AI trả lời chính xác và phù hợp hơn.\nA sai vì prompt ngẫu nhiên không đảm bảo chất lượng phản hồi.\nC sai vì bỏ qua prompt khiến AI mất hướng dẫn và giảm độ chính xác.\nD sai vì chỉ dùng prompt tạo kết quả mong muốn sẽ hạn chế khả năng tổng quát hóa của mô hình."
+    },
+    {
+      "term": "Which of the following is a scenario where an AI is being asked to make an ETHICAL decision?\nA. A self-driving car can only avoid one of two pedestrians and must choose which\nB. A voice assistant is asked to schedule an appointment on the users calendar\nC. A voice assistant is asked whether the user will need an umbrella today\nD. A chess computer must choose its next move",
+      "definition": "A. A self-driving car can only avoid one of two pedestrians and must choose which — Đây là tình huống đạo đức vì AI phải đưa ra quyết định ảnh hưởng trực tiếp đến tính mạng con người.\nB sai vì sắp xếp lịch là tác vụ kỹ thuật, không liên quan đến đạo đức.\nC sai vì dự báo thời tiết không mang tính quyết định đạo đức.\nD sai vì lựa chọn nước cờ chỉ liên quan đến chiến thuật, không liên quan đến yếu tố đạo đức."
+    },
+    {
+      "term": "Which one of these ways is NOT how AI learns?\nA. Supervised Learning\nB. Reinforcement Learning\nC. Proactive Learning\nD. Unsupervised Learning",
+      "definition": "C. Proactive Learning\nGiải thích: AI học qua các phương pháp chính gồm Supervised Learning, Unsupervised Learning và Reinforcement Learning. \"Proactive Learning\" không phải là một thuật ngữ chính thống trong học máy, do đó đây là đáp án sai.\n- A. Supervised Learning: Có thật, dùng dữ liệu có nhãn để huấn luyện.\n- B. Reinforcement Learning: Có thật, học qua phần thưởng/phạt dựa trên hành động.\n- D. Unsupervised Learning: Có thật, dùng dữ liệu không nhãn để tìm cấu trúc ẩn."
+    },
+    {
+      "term": "What is an example of AI's role in improving customer service and experiences?\nA. Lengthening response times and delays\nB. Providing personalized recommendations and support\nC. Reducing customer engagement and interactions\nD. Decreasing customer satisfaction levels",
+      "definition": "B. Providing personalized recommendations and support — AI giúp phân tích dữ liệu khách hàng để đưa ra gợi ý và hỗ trợ phù hợp, từ đó nâng cao trải nghiệm và sự hài lòng."
+    },
+    {
+      "term": "How does the Tree-of-Thoughts approach differ from traditional linear prompting approaches?\nA. It encourages linear thinking\nB. It eliminates all possible routes of thinking\nC. It makes random decisions\nD. It explores multiple possibilities simultaneously using a hierarchical structure",
+      "definition": "D. It explores multiple possibilities simultaneously using a hierarchical structure\nGiải thích: Tree-of-Thoughts cho phép khám phá nhiều hướng giải quyết cùng lúc và tổ chức chúng theo dạng cây (hierarchical), khác với cách tuyến tính chỉ đi theo một hướng duy nhất.\n- A. It encourages linear thinking: Ngược lại, Tree-of-Thoughts không giới hạn ở tư duy tuyến tính.\n- B. It eliminates all possible routes of thinking: Sai, nó giữ và khám phá nhiều hướng, không loại bỏ hết.\n- C. It makes random decisions: Sai, quyết định dựa trên phân tích hệ thống, không phải ngẫu nhiên."
+    },
+    {
+      "term": "Which of the following is a potential challenge associated with prompt engineering for generative AI?\nA. Limited control over the output of generative AI models\nB. Difficulty in training generative AI models without prompts\nC. Lack of available tools and resources for prompt engineering\nD. Difficulty in generating prompts automatically using AI algorithms",
+      "definition": "A. Limited control over the output of generative AI models\nGiải thích: Một thách thức lớn của prompt engineering là dù thiết kế prompt tốt, vẫn khó kiểm soát hoàn toàn kết quả đầu ra của mô hình AI sinh.\n- B. Difficulty in training generative AI models without prompts: Sai, mô hình thường đã được huấn luyện trước, prompt chỉ định hướng đầu ra.\n- C. Lack of available tools and resources for prompt engineering: Sai, hiện nay đã có nhiều công cụ hỗ trợ.\n- D. Difficulty in generating prompts automatically using AI algorithms: Sai, đây không phải là thách thức chính, mà là một lĩnh vực đang phát triển."
+    },
+    {
+      "term": "What is one of the potential future impacts of AI in the job market?\nA. Decrease in demand for skilled professionals\nB. Increased job opportunities across all sectors\nC. Shift in job roles, with some jobs becoming obsolete\nD. Unchanged job market dynamics",
+      "definition": "C. Shift in job roles, with some jobs becoming obsolete\nGiải thích: AI có thể thay đổi cơ cấu việc làm, một số nghề biến mất, trong khi nghề mới xuất hiện, dẫn đến sự dịch chuyển vai trò.\n- A. Decrease in demand for skilled professionals: Sai, AI thường làm tăng nhu cầu ở các kỹ năng mới, không giảm hoàn toàn.\n- B. Increased job opportunities across all sectors: Sai, AI không đảm bảo tăng việc làm ở mọi ngành.\n- D. Unchanged job market dynamics: Sai, AI chắc chắn sẽ thay đổi động lực thị trường lao động."
+    },
+    {
+      "term": "What does Ethical AI Governance focus on in the development and deployment of AI systems?\nA. Establishing strict regulations to limit AI capabilities\nB. Ensuring ethical guidelines and standards in AI use\nC. The unrestricted development of AI technologies\nD. Eliminating the need for ethical considerations in AI development",
+      "definition": "B. Ensuring ethical guidelines and standards in AI use\nGiải thích: Ethical AI Governance tập trung vào việc đảm bảo các nguyên tắc đạo đức và tiêu chuẩn được tuân thủ khi phát triển và triển khai AI.\n- A. Establishing strict regulations to limit AI capabilities: Sai, không phải chỉ giới hạn khả năng AI mà là định hướng phát triển có đạo đức.\n- C. The unrestricted development of AI technologies: Sai, phát triển không giới hạn đi ngược lại mục tiêu của quản trị AI có đạo đức.\n- D. Eliminating the need for ethical considerations in AI development: Sai, điều này trái hoàn toàn với khái niệm \"Ethical AI Governance\"."
+    },
+    {
+      "term": "What is \"prompt engineering\" in the context of generative AI?\nA. The process of creating prompts or instructions to guide the output of generative AI models\nB. The process of training generative AI models using large datasets\nC. The process of evaluating the performance of generative AI models\nD. The process of generating prompts automatically using AI algorithms",
+      "definition": "A. The process of creating prompts or instructions to guide the output of generative AI models — Là quá trình thiết kế và tối ưu câu lệnh/hướng dẫn để định hướng đầu ra của mô hình AI tạo sinh."
+    },
+    {
+      "term": "What is the primary goal of Artificial Intelligence (AI)?\nA. To replace human intelligence entirely\nB. To simulate human intelligence in machines\nC. To limit the capabilities of machines\nD. To create autonomous robots",
+      "definition": "B. To simulate human intelligence in machines\nGiải thích: Mục tiêu chính của AI là mô phỏng trí thông minh của con người trong máy móc, giúp chúng có khả năng nhận thức, suy luận, học hỏi và giải quyết vấn đề.\n- A. To replace human intelligence entirely: Sai, AI hỗ trợ và tăng cường trí tuệ con người, không nhằm thay thế hoàn toàn.\n- C. To limit the capabilities of machines: Sai, mục tiêu AI là mở rộng khả năng, không giới hạn.\n- D. To create autonomous robots: Sai, robot tự hành chỉ là một ứng dụng, không phải mục tiêu tổng quát của AI."
+    },
+    {
+      "term": "How does the streamline mode in PromptPerfect contribute to prompt optimization?\nA. By selecting a relevant model for prompt optimization\nB. By accessing prebuilt prompts as examples\nC. By refining prompts step-by-step until satisfied with the output\nD. By experimenting with the autocomplete feature",
+      "definition": "C. By refining prompts step-by-step until satisfied with the output\nGiải thích: Chế độ streamline trong PromptPerfect giúp tối ưu prompt bằng cách tinh chỉnh từng bước dựa trên kết quả nhận được cho đến khi đạt yêu cầu mong muốn.\n- A. By selecting a relevant model for prompt optimization: Sai, đây không phải là chức năng chính của streamline mode.\n- B. By accessing prebuilt prompts as examples: Sai, đây là tính năng khác, không phải quá trình tinh chỉnh từng bước.\n- D. By experimenting with the autocomplete feature: Sai, autocomplete không phải là phương pháp tối ưu chính trong streamline mode."
+    },
+    {
+      "term": "In what way do 'digressions' impact the overall chatbot experience?\nA. They hinder the conversation flow\nB. They provide a natural and varied conversational experience\nC. They limit the chatbot's vocabulary\nD. They delay response times",
+      "definition": "B. They provide a natural and varied conversational experience\nGiải thích: 'Digressions' giúp chatbot tạo ra trải nghiệm trò chuyện tự nhiên và đa dạng hơn, giống cách con người thường nói chuyện.\n- A. They hinder the conversation flow: Sai, nếu được sử dụng hợp lý, digressions không phá vỡ mạch hội thoại mà làm phong phú thêm.\n- C. They limit the chatbot's vocabulary: Sai, digressions không liên quan đến giới hạn từ vựng.\n- D. They delay response times: Sai, digressions không trực tiếp làm chậm phản hồi."
+    },
+    {
+      "term": "What is the purpose of evaluating prompt effectiveness in prompt engineering for generative AI?\nA. To determine the computational resources required for generating model outputs\nB. To assess the relevance and coherence of model outputs generated from different prompts\nC. To randomly select prompts for generating model outputs\nD. To fine-tune prompts based on feedback from model outputs",
+      "definition": "B. To assess the relevance and coherence of model outputs generated from different prompts\nGiải thích: Đánh giá hiệu quả của prompt nhằm xem xét mức độ liên quan và tính mạch lạc của đầu ra từ các prompt khác nhau, từ đó chọn được prompt tối ưu nhất.\n- A. To determine the computational resources required for generating model outputs: Sai, đây là việc đánh giá hiệu suất hệ thống, không phải mục tiêu chính của việc đánh giá prompt.\n- C. To randomly select prompts for generating model outputs: Sai, đánh giá prompt nhằm chọn lọc có cơ sở, không phải ngẫu nhiên.\n- D. To fine-tune prompts based on feedback from model outputs: Sai, đây là bước sau khi đã đánh giá, không phải mục đích chính của quá trình đánh giá."
+    },
+    {
+      "term": "Which of the following is an attribute of Strong or Generalized AI?\nA. Operate with human-level consciousness\nB. Cannot teach itself new strategies\nC. Perform independent tasks\nD. Can perform specific tasks, but cannot learn new ones",
+      "definition": "A. Operate with human-level consciousness\nGiải thích: Strong AI (AI tổng quát) có khả năng hoạt động ở mức độ nhận thức tương đương con người, bao gồm học hỏi, lập luận và thích nghi với nhiều tình huống khác nhau.\n- B. Cannot teach itself new strategies: Sai, Strong AI có thể tự học và phát triển chiến lược mới.\n- C. Perform independent tasks: Sai, đây là khả năng của Narrow AI hoặc AI yếu, không phản ánh toàn diện Strong AI.\n- D. Can perform specific tasks, but cannot learn new ones: Sai, đây là giới hạn của Narrow AI, trái ngược với khả năng của Strong AI."
+    },
+    {
+      "term": "If you want precise control over style for manipulating specific features like a pose or facial expression, which tool here can help you do that best?\nA. Stable Diffusion\nB. DALL-E\nC. Freepik\nD. StyleGAN",
+      "definition": "D. StyleGAN\nGiải thích: StyleGAN nổi tiếng với khả năng điều khiển chi tiết các đặc điểm hình ảnh như tư thế, biểu cảm khuôn mặt và phong cách, cho phép chỉnh sửa chính xác ở mức cao.\n- A. Stable Diffusion: Sai, có khả năng sinh ảnh nhưng không mạnh bằng StyleGAN trong việc điều chỉnh chi tiết đặc trưng cụ thể.\n- B. DALL-E: Sai, tập trung vào sinh ảnh từ mô tả văn bản nhưng ít kiểm soát tường minh các đặc điểm nhỏ.\n- C. Freepik: Sai, đây là thư viện ảnh, không phải công cụ AI chỉnh sửa hoặc tạo ảnh."
+    },
+    {
+      "term": "Why haven't scientists been completely successful when developing AI?\nA. They do not have the time or money\nB. The human brain is very simple\nC. They are trying to replicate the human heart\nD. The human brain is very complex",
+      "definition": "D. The human brain is very complex\nGiải thích: Sự phức tạp của não bộ con người, với hàng tỷ nơ-ron và mạng kết nối tinh vi, khiến việc tái tạo hoàn toàn trí thông minh nhân tạo trở nên vô cùng khó khăn.\n- A. They do not have the time or money: Sai, dù tài nguyên quan trọng, nguyên nhân chính là sự phức tạp của não bộ.\n- B. The human brain is very simple: Sai, thực tế ngược lại, não bộ rất phức tạp.\n- C. They are trying to replicate the human heart: Sai, AI không nhằm sao chép trái tim mà là trí tuệ con người."
+    },
+    {
+      "term": "How can prompt engineering be used to control the creativity of generative AI models?\nA. By limiting the vocabulary used in prompts\nB. By adjusting the temperature parameter during model generation\nC. By ignoring prompts that may lead to overly creative or inappropriate responses\nD. By randomly selecting prompts from a predefined list",
+      "definition": "B. By adjusting the temperature parameter during model generation\nGiải thích: Trong prompt engineering, tham số \"temperature\" được điều chỉnh để kiểm soát mức độ sáng tạo của AI: giá trị thấp tạo kết quả chính xác, ít biến thể; giá trị cao tạo nhiều ý tưởng sáng tạo hơn.\n- A. By limiting the vocabulary used in prompts: Sai, cách này không trực tiếp kiểm soát độ sáng tạo mà chỉ giới hạn ngôn ngữ.\n- C. By ignoring prompts that may lead to overly creative or inappropriate responses: Sai, đây là phương pháp lọc nội dung, không phải kiểm soát sáng tạo trực tiếp.\n- D. By randomly selecting prompts from a predefined list: Sai, điều này làm mất tính chủ đích, không kiểm soát được sáng tạo."
+    },
+    {
+      "term": "What role does human input play in prompt engineering?\nA. Human input is not necessary for prompt engineering\nB. Human input is essential for designing effective prompts and evaluating model outputs\nC. Human input is only required during the training phase of AI models\nD. Human input is necessary for adjusting hyperparameters during model generation",
+      "definition": "B - Con người cần thiết để thiết kế prompt hiệu quả và đánh giá đầu ra của mô hình.\nA sai vì AI chưa thể tự làm toàn bộ.\nC sai vì prompt engineering chủ yếu diễn ra khi sử dụng mô hình, không chỉ lúc huấn luyện.\nD sai vì điều chỉnh siêu tham số không phải là phần chính của prompt engineering."
+    },
+    {
+      "term": "Ravi is debating which Generative AI tool he can use to improve and index his code. Can you guide him based on the tools listed here?\nA. DALLE\nB. GitHub Copilot\nC. Bard\nD. Synthesia",
+      "definition": "B. GitHub Copilot\nGiải thích: GitHub Copilot là công cụ AI hỗ trợ lập trình, có thể gợi ý, cải thiện và giúp tổ chức mã nguồn, phù hợp để cải thiện và index code.\n- A. DALLE: Sai, đây là công cụ tạo hình ảnh từ văn bản, không hỗ trợ lập trình.\n- C. Bard: Sai, đây là chatbot AI, không chuyên sâu cho cải thiện hoặc index code.\n- D. Synthesia: Sai, đây là công cụ tạo video từ văn bản, không liên quan đến lập trình."
+    },
+    {
+      "term": "How do well-implemented 'digressions' contribute to user satisfaction within chatbot interactions?\nA. By creating predictable conversation patterns\nB. By restricting the variety of conversation paths\nC. By offering engaging and unexpected conversational turns\nD. By limiting conversational flexibility",
+      "definition": "C. By offering engaging and unexpected conversational turns\nGiải thích: Digressions khi được thực hiện tốt giúp tạo ra những đoạn hội thoại bất ngờ và thú vị, làm tăng sự hứng thú và cảm giác tự nhiên của người dùng.\n- A sai vì tạo mẫu hội thoại dự đoán được sẽ làm giảm sự bất ngờ và thú vị.\n- B sai vì hạn chế con đường hội thoại sẽ làm giảm tính phong phú và sáng tạo.\n- D sai vì giới hạn sự linh hoạt sẽ khiến hội thoại trở nên khô khan, thiếu tương tác tự nhiên."
+    },
+    {
+      "term": "Which of the following do you need to create in order to publish a notebook to your GitHub repository?\nA. Apps\nB. Profile\nC. Access token\nD. Login credential",
+      "definition": "C. Access token\nGiải thích: Để có thể xuất bản notebook lên GitHub, bạn cần tạo một Personal Access Token để xác thực thay cho mật khẩu.\n- A sai vì \"Apps\" không phải là yêu cầu cần thiết để đăng notebook.\n- B sai vì \"Profile\" là tài khoản GitHub chung, không phải công cụ xác thực xuất bản.\n- D sai vì \"Login credential\" (tài khoản đăng nhập) không được GitHub khuyến nghị dùng trực tiếp, thay vào đó là Access Token."
+    },
+    {
+      "term": "Which of these are attributes of IBM's Cognitive APIs?\nA. IBM Cognitive APIs are based on an input/output system, where your input is data that the API feeds into Watson, and the output is the delivery of the overall outcome based on that data.\nB. IBM Cognitive APIs can process only structured data as input and unstructured data as output.\nC. IBM Cognitive APIs serve as a messenger between the input data and the output files on your local machine. These output files can then be transferred to the cloud.\nD. IBM's Cognitive APIs help AI professionals to build apps for mobile devices.",
+      "definition": "A. IBM Cognitive APIs are based on an input/output system, where your input is data that the API feeds into Watson, and the output is the delivery of the overall outcome based on that data.\nGiải thích: IBM's Cognitive APIs (như Watson) nhận dữ liệu đầu vào (có thể là structured hoặc unstructured), xử lý bằng AI và trả lại kết quả phù hợp.\n- B sai vì API không chỉ xử lý structured data, mà còn cả unstructured data.\n- C sai vì API không hoạt động như một \"messenger\" lưu file cục bộ rồi chuyển lên cloud.\n- D sai vì API không chỉ tập trung vào xây dựng app mobile, mà hỗ trợ nhiều ứng dụng AI khác nhau."
+    },
+    {
+      "term": "What are 'context variables' in chatbot conversations?\nA. User authentication methods\nB. Temporary data storage during conversations\nC. Graphic design elements\nD. Server configurations",
+      "definition": "B. Temporary data storage during conversations\nGiải thích: Context variables trong chatbot lưu trữ tạm thời thông tin (ví dụ: tên người dùng, lựa chọn trước đó) trong suốt hội thoại để giữ ngữ cảnh và tạo trải nghiệm liền mạch.\n- A sai vì phương thức xác thực người dùng không phải là chức năng chính của context variables.\n- C sai vì context variables không liên quan đến thiết kế đồ họa.\n- D sai vì cấu hình máy chủ không thuộc phạm vi xử lý của context variables."
+    },
+    {
+      "term": "How do chatbots use context variables and slots to maintain context during a conversation?\nA. By ignoring the user's input\nB. By storing information about the user's preferences and previous interactions\nC. By generating random responses\nD. By terminating the conversation after a set number of interactions",
+      "definition": "B. By storing information about the user's preferences and previous interactions\nGiải thích: Context variables và slots giúp chatbot ghi nhớ thông tin về sở thích, câu trả lời trước đó của người dùng để duy trì mạch hội thoại và phản hồi phù hợp.\n- A sai vì bỏ qua input người dùng sẽ làm mất ngữ cảnh.\n- C sai vì phản hồi ngẫu nhiên không duy trì được sự liên kết.\n- D sai vì việc kết thúc hội thoại theo số lượt tương tác không liên quan đến chức năng duy trì ngữ cảnh."
+    },
+    {
+      "term": "What mindset did Woodside notice amongst its workers after introducing an AI system?\nA. Retiring workers resented their years of knowledge being reduced to a computer system.\nB. Younger workers resisted contributing to the AI knowledge base.\nC. Younger workers found the new technology difficult to incorporate into their day-to-day tasks.\nD. Retiring workers are proud to leave their knowledge as a legacy for the future.",
+      "definition": "D. Retiring workers are proud to leave their knowledge as a legacy for the future\nGiải thích: Sau khi áp dụng hệ thống AI, Woodside nhận thấy các nhân viên sắp nghỉ hưu có thái độ tích cực, xem việc chia sẻ kiến thức qua AI là cách để để lại di sản cho thế hệ sau.\n- A sai vì không có sự phản đối từ người sắp nghỉ hưu.\n- B sai vì không phải nhóm nhân viên trẻ phản đối đóng góp kiến thức.\n- C sai vì không đề cập việc nhân viên trẻ gặp khó khăn khi sử dụng công nghệ mới."
+    },
+    {
+      "term": "What type of learning involves AI systems learning from data without explicit programming?\nA. Supervised learning\nB. Reinforcement learning\nC. Unsupervised learning\nD. Deep learning",
+      "definition": "C. Unsupervised learning — Là phương pháp cho phép AI học từ dữ liệu không nhãn, tự tìm ra cấu trúc/mẫu trong dữ liệu mà không cần lập trình tường minh."
+    },
+    {
+      "term": "Which concept does the introduction module primarily cover in chatbot development without programming?\nA. Complex algorithms in cryptography\nB. Front-end web development techniques\nC. Basic principles and concepts of chatbots\nD. Robotics in AI applications",
+      "definition": "C. Basic principles and concepts of chatbots\nGiải thích: Module giới thiệu về phát triển chatbot không yêu cầu lập trình thường tập trung vào các khái niệm cơ bản và nguyên lý hoạt động của chatbot để người học nắm nền tảng trước khi đi sâu hơn.\n- A sai vì thuật toán mật mã không liên quan trực tiếp đến phát triển chatbot cơ bản.\n- B sai vì kỹ thuật front-end web development không phải trọng tâm chính của module này.\n- D sai vì robotics trong AI không liên quan đến nội dung giới thiệu chatbot."
+    },
+    {
+      "term": "A Machine Learning technique that helps in detecting the outliers in data.\nA. Clustering\nB. Classification\nC. Anamoly Detection\nD. All of them",
+      "definition": "C. Anamoly Detection\nGiải thích: Anomaly Detection là kỹ thuật chuyên dùng để phát hiện các điểm dữ liệu bất thường (outliers) so với phần lớn dữ liệu.\n- A sai: Clustering phân nhóm dữ liệu, đôi khi có thể giúp phát hiện outlier nhưng không phải là mục tiêu chính.\n- B sai: Classification phân loại dữ liệu vào các lớp đã biết, không tập trung vào phát hiện outlier.\n- D sai: Không phải tất cả các kỹ thuật trên đều là phương pháp chính để phát hiện outlier, chỉ có Anomaly Detection là chuyên biệt cho mục tiêu này."
+    },
+    {
+      "term": "Which of the following is the main purpose of using the user feedback loop?\nA. To iteratively refine text prompts based on the response generated by the LLM\nB. To generate responses with examples\nC. To provide explicit instructions to generate neutral responses\nD. To generate meaningful responses without needing prior training on specific prompts",
+      "definition": "A. To iteratively refine text prompts based on the response generated by the LLM\nGiải thích: Vòng phản hồi từ người dùng (user feedback loop) được dùng để liên tục điều chỉnh và cải thiện prompt dựa trên phản hồi và kết quả sinh ra từ mô hình, nhằm tối ưu chất lượng phản hồi.\n- B sai: Tạo phản hồi kèm ví dụ là một kỹ thuật hỗ trợ, không phải mục tiêu chính của feedback loop.\n- C sai: Hướng dẫn tạo phản hồi trung lập chỉ là một mục tiêu phụ, không bao quát hết mục đích chính.\n- D sai: Feedback loop không nhằm loại bỏ hoàn toàn nhu cầu huấn luyện trước, mà để cải thiện dựa trên kết quả hiện tại."
+    },
+    {
+      "term": "How do 'digressions' contribute to chatbot functionality?\nA. By ignoring user inputs\nB. By maintaining rigid conversation structures\nC. By allowing flexibility in conversation flows\nD. By limiting user interactions",
+      "definition": "C. By allowing flexibility in conversation flows\nGiải thích: \"Digressions\" trong chatbot cho phép cuộc trò chuyện rẽ sang các chủ đề khác nhau mà vẫn duy trì mạch tương tác, giúp chatbot linh hoạt hơn và đáp ứng tốt hơn nhu cầu người dùng.\n- A sai: Bỏ qua input người dùng sẽ làm giảm trải nghiệm, không phải là chức năng của digression.\n- B sai: Digressions giúp phá vỡ cấu trúc cứng nhắc, không phải duy trì nó.\n- D sai: Mục tiêu là mở rộng tương tác, không phải giới hạn."
+    },
+    {
+      "term": "How do digressions affect the flow of a conversation between a user and a chatbot?\nA. Digressions help maintain focus on the original topic of the conversation\nB. Digressions create confusion and frustration for users by shifting the conversation away from their intended query\nC. Digressions encourage users to provide more information about their preferences and interests\nD. Digressions have no impact on the flow of the conversation",
+      "definition": "C. Digressions encourage users to provide more information about their preferences and interests\nGiải thích: Digressions cho phép chatbot mở rộng chủ đề và khuyến khích người dùng chia sẻ thêm về sở thích, nhu cầu hoặc bối cảnh, từ đó tăng sự cá nhân hóa và chất lượng đối thoại.\n- A sai: Digressions không nhằm duy trì tập trung vào chủ đề gốc mà có thể chuyển hướng.\n- B sai: Khi được thiết kế hợp lý, digressions không gây nhầm lẫn mà tăng tính tương tác.\n- D sai: Digressions rõ ràng tác động đến mạch hội thoại, giúp mở rộng hoặc thay đổi hướng nói chuyện."
+    },
+    {
+      "term": "Why is clarity important when writing prompts for generative AI models?",
+      "definition": "Clarity helps the model understand the task and produce relevant responses   Clarity adds to the complexity of the prompt"
+    },
+    {
+      "term": "How is Watson currently aiding in solving business problems based on the provided scenarios?\nA. Gathering expertise learned from thousands of employees to reduce time spent on tracking down expert knowledge.\nB. Using data from sensors to detect moisture levels in the air, helping irrigation systems give water where it's needed most.\nC. Identifying the best routes based on traffic, temperature, and road conditions to transport bees for pollination.\nD. Analyzing financial data to predict market trends and stock performance accurately.",
+      "definition": "A. Gathering expertise learned from thousands of employees to reduce time spent on tracking down expert knowledge\nGiải thích: Watson được sử dụng để xử lý và phân tích khối lượng lớn dữ liệu từ nhiều nguồn nhằm truy xuất nhanh tri thức chuyên môn, giúp doanh nghiệp tiết kiệm thời gian và tối ưu hóa hiệu suất công việc.\n- B sai: Đây là ứng dụng IoT và AI trong nông nghiệp, không phải tình huống Watson đang hỗ trợ trong bối cảnh này.\n- C sai: Đây là ví dụ về tối ưu hóa logistics cho ong thụ phấn, không phải tình huống Watson được nêu.\n- D sai: Mặc dù Watson có thể phân tích tài chính, nhưng kịch bản này không phải là nội dung cụ thể được đề cập ở đây."
+    },
+    {
+      "term": "How does AI contribute to environmental conservation and sustainability?\nA. Accelerating climate change impacts\nB. Optimizing energy usage and waste reduction\nC. Increasing pollution levels\nD. Ignoring ecological issues",
+      "definition": "B. Optimizing energy usage and waste reduction\nGiải thích: AI hỗ trợ bảo tồn môi trường và phát triển bền vững bằng cách phân tích dữ liệu để tối ưu hóa việc sử dụng năng lượng, giảm lãng phí và tăng hiệu quả sử dụng tài nguyên.\n- A sai: Đây là tác động tiêu cực, không phải đóng góp của AI.\n- C sai: AI không làm tăng ô nhiễm nếu được ứng dụng đúng cách.\n- D sai: AI giúp giải quyết các vấn đề sinh thái, không bỏ qua chúng."
+    },
+    {
+      "term": "Which of the following is NOT a common strategy for managing digressions in chatbots?\nA. Redirecting the conversation back to the original topic\nB. Ignoring the user's input and continuing with a predefined script\nC. Acknowledging the digression and exploring the new topic briefly\nD. Terminating the conversation abruptly",
+      "definition": "D. Terminating the conversation abruptly\nGiải thích: Các chiến lược quản lý digression thường nhằm duy trì tương tác, giữ mạch hội thoại mượt mà và thân thiện. Việc kết thúc hội thoại đột ngột không phải là chiến lược phổ biến vì nó phá vỡ trải nghiệm người dùng.\n- A đúng với thực tế: Đưa cuộc trò chuyện quay lại chủ đề chính là cách thường dùng.\n- B đúng: Bỏ qua phần rẽ ngang và tiếp tục theo kịch bản định sẵn cũng là chiến lược phổ biến.\n- C đúng: Thừa nhận digression và khám phá nhanh chủ đề mới giúp tạo cảm giác lắng nghe và linh hoạt."
+    },
+    {
+      "term": "Which of the following is an attribute of Supervised Learning?\nA. Relies on providing the machine learning algorithm unlabeled data and letting the machine infer qualities\nB. Tries its best to maximize its rewards by trying different combinations of allowed actions within the provided constraints\nC. Relies on providing the machine learning algorithm human-labeled data - the more samples you provide, the more precise the algorithm becomes in classifying new data\nD. Relies on providing the machine learning algorithm with a set of rules and constraints and letting it learn how to achieve its goals",
+      "definition": "C. Relies on providing the machine learning algorithm human-labeled data - the more samples you provide, the more precise the algorithm becomes in classifying new data\nGiải thích: Supervised Learning sử dụng dữ liệu đã được gán nhãn (labeled data) để huấn luyện mô hình, giúp nó dự đoán hoặc phân loại dữ liệu mới chính xác hơn.\n- A sai: Đây là mô tả của Unsupervised Learning (dữ liệu không nhãn).\n- B sai: Đây là Reinforcement Learning (học tăng cường).\n- D sai: Đây là Rule-based system, không phải học máy."
+    },
+    {
+      "term": "How are intents used in natural language understanding for chatbots?\nA. To detect the emotion of the user\nB. To identify the language being spoken\nC. To classify the purpose or goal of the user's input\nD. To generate random responses",
+      "definition": "C. To classify the purpose or goal of the user's input — Intents giúp phân loại mục đích hoặc mục tiêu mà người dùng muốn truyền đạt, để chatbot phản hồi phù hợp."
+    },
+    {
+      "term": "Which of the following are unstructured data sources?\nA. Email\nB. Blog posts\nC. Relational Databases\nD. Social media",
+      "definition": "A, B, D — Email, blog posts và social media là dữ liệu phi cấu trúc, vì chúng không tuân theo định dạng bảng cố định, trong khi relational databases là dữ liệu có cấu trúc."
+    },
+    {
+      "term": "How can 'digressions' within chatbot conversations be effectively balanced to ensure optimal user engagement?\nA. By avoiding deviations entirely to maintain a focused conversation\nB. By implementing random conversation paths for unpredictability\nC. By strategically introducing deviations without overwhelming the user\nD. By restricting conversational choices to pre-set options",
+      "definition": "C — Cân nhắc đưa vào các sự lạc đề một cách chiến lược để tạo sự tự nhiên và hấp dẫn, nhưng không làm người dùng cảm thấy bị quá tải."
+    },
+    {
+      "term": "How can prompt engineering be used to mitigate biases in AI models?\nA. By generating prompts automatically using AI algorithms\nB. By ensuring that prompts are designed to encourage diverse and inclusive responses\nC. By ignoring prompts that may lead to biased outputs\nD. By training models using biased datasets",
+      "definition": "B — Thiết kế prompt theo hướng khuyến khích các phản hồi đa dạng và hòa nhập sẽ giúp giảm thiểu bias trong mô hình AI."
+    },
+    {
+      "term": "Which of the following is NOT a potential challenge associated with prompt engineering?",
+      "definition": "Lack of available tools and resources for prompt engineering"
+    },
+    {
+      "term": "Using a generative AI tool, Emily wants to create an image of a zebra-striped cat with a purple hat. Identify the best prompt for this task.\nA. List cat breeds that look like zebras or have stripes.\nB. Draw an image of a zebra-striped cat with a purple hat.\nC. What's the difference between a zebra and a cat?\nD. Find a zebra-striped cat that wears a purple hat.",
+      "definition": "B — Prompt này mô tả trực tiếp và rõ ràng yêu cầu tạo hình ảnh một con mèo sọc ngựa vằn đội mũ tím, phù hợp với nhiệm vụ sử dụng AI tạo sinh."
+    },
+    {
+      "term": "What impact do well-implemented 'digressions' have on chatbot conversations?\nA. Limiting conversational options for users\nB. Enhancing natural conversation and user engagement\nC. Increasing response times\nD. Reducing chatbot functionality",
+      "definition": "B — Các digressions được triển khai tốt giúp cuộc trò chuyện tự nhiên hơn và tăng mức độ tương tác của người dùng với chatbot."
+    },
+    {
+      "term": "Which of these are attributes of IBM's Cognitive APIs?\nA. IBM Cognitive APIs are based on an input/output system, where your input is data that the API feeds into Watson, and the output is the delivery of the overall outcome based on that data.\nB. IBM Cognitive APIs can process only structured data as input and unstructured data as output.\nC. IBM Cognitive APIs serve as a messenger between the input data and the output files on your local machine. These output files can then be transferred to the cloud.\nD. IBM Cognitive APIs help AI professionals to build apps for mobile devices.",
+      "definition": "A — IBM Cognitive APIs nhận dữ liệu làm input, xử lý bằng Watson, và trả kết quả đầu ra dựa trên dữ liệu đó."
+    },
+    {
+      "term": "Which of the following demonstrates an application of Artificial Intelligence in action based on the provided scenarios?",
+      "definition": "Using facial recognition algorithms for suspect identification by law enforcement authorities."
+    },
+    {
+      "term": "If one of a paired punctuation such as parentheses is missing:\nA. The robot will assume that it is there and continue running\nB. The program will not compile and the programmer will see an error message\nC. The program will bypass that statement\nD. The program will delete the paired punctuation that is not missing",
+      "definition": "B. The program will not compile and the programmer will see an error message.\nGiải thích: Trong hầu hết các ngôn ngữ lập trình biên dịch, việc thiếu dấu ngoặc là lỗi cú pháp. Trình biên dịch sẽ dừng, không tạo file thực thi, và báo lỗi cho lập trình viên. Các đáp án A, C, D sai vì chương trình không tự giả định, không bỏ qua câu lệnh, và không tự xóa dấu còn lại."
+    },
+    {
+      "term": "How do chatbots use entities to understand user queries and provide relevant responses?\nA. By matching the detected entities to predefined actions or responses\nB. By ignoring the entities and focusing only on the intent of the user's input\nC. By asking the user for clarification about the entities\nD. By randomly selecting a response from a list",
+      "definition": "A. By matching the detected entities to predefined actions or responses.\nGiải thích: Chatbot sử dụng thực thể để trích xuất thông tin quan trọng (như tên, ngày, địa điểm) từ câu hỏi và ánh xạ chúng tới các hành động hoặc phản hồi đã được cấu hình. Các đáp án B, C, D sai vì bỏ qua thực thể, chỉ hỏi lại hoặc chọn ngẫu nhiên sẽ không tận dụng thông tin hữu ích từ thực thể."
+    },
+    {
+      "term": "Which of the following are examples of bias in an AI system?\nA. Facial recognition systems performing well for individuals of all skin tones.\nB. Image recognition systems associating images of kitchens, shops, and laundry with women rather than men.\nC. Customers not being aware that they are interacting with a chatbot on a company website.\nD. AI systems in call centers providing context sensitive assistance to staff.",
+      "definition": "B. Image recognition systems associating images of kitchens, shops, and laundry with women rather than men.\nGiải thích: Đây là thiên vị giới tính trong AI, xuất hiện khi mô hình học từ dữ liệu huấn luyện thiên lệch, dẫn đến việc gắn kết sai hoặc thiên lệch giữa hình ảnh và nhóm đối tượng. Các đáp án A, C, D không thể hiện thiên vị mà là tính năng tốt hoặc vấn đề minh bạch."
+    },
+    {
+      "term": "Advances in the field of Computer Vision make which of the following possible\nA. Real-time transcription\nB. Detecting cancerous moles in skin images\nC. Detecting fraudulent transactions\nD. On-demand online tutors",
+      "definition": "B. Detecting cancerous moles in skin images — Thị giác máy tính có thể phân tích và nhận diện các đặc điểm bất thường trong hình ảnh y tế, như phát hiện nốt ruồi ung thư, trong khi các lựa chọn khác thuộc về các lĩnh vực khác (xử lý giọng nói, phân tích dữ liệu, dịch vụ trực tuyến)."
+    },
+    {
+      "term": "What does generative AI do differently than discriminative AI?\nA. Mimics the human ability to predict data\nB. Mimics the human ability to analyze data\nC. Mimics the human ability to classify data\nD. Mimics the human ability to create data",
+      "definition": "D. Mimics the human ability to create data — Generative AI có khả năng tạo ra dữ liệu mới (văn bản, hình ảnh, âm thanh...) dựa trên mẫu đã học, trong khi Discriminative AI chủ yếu phân loại hoặc dự đoán dữ liệu."
+    },
+    {
+      "term": "Which concern in AI focuses on avoiding biased decision-making in algorithms?\nA. AI Transparency\nB. AI Ethics\nC. AI Accountability\nD. AI Fairness",
+      "definition": "D. AI Fairness — Công bằng AI tập trung vào việc giảm hoặc loại bỏ sự thiên lệch trong các mô hình và thuật toán, đảm bảo kết quả công bằng cho tất cả các nhóm."
+    },
+    {
+      "term": "How does the interview pattern approach enhance the interaction with generative AI models?\nA. By focusing on a conventional prompting approach\nB. By hierarchically structuring a prompt or query\nC. By promoting a back-and-forth exchange of information with the model\nD. By providing a single static prompt to the model.",
+      "definition": "C. By promoting a back-and-forth exchange of information with the model — Phương pháp \"interview pattern\" khuyến khích đối thoại nhiều lượt giữa người dùng và AI để tinh chỉnh và cải thiện kết quả."
+    },
+    {
+      "term": "Why are 'digressions' employed within chatbot conversations?\nA. To confuse users intentionally\nB. To enhance natural and engaging conversations\nC. To slow down the conversation pace\nD. To enforce strict conversation paths",
+      "definition": "B. To enhance natural and engaging conversations — Giúp cuộc trò chuyện trở nên tự nhiên, thu hút và thân thiện hơn với người dùng."
+    },
+    {
+      "term": "A metaverse platform with generative AI capabilities will allow you to access __________, which is not possible with other generative AI tools.\nA. Virtual avatars\nB. Synthetic images\nC. Augmented data sets\nD. Clear and contextually relevant text",
+      "definition": "A. Virtual avatars — Cho phép tạo và sử dụng avatar ảo để tương tác trong môi trường 3D, điều mà các công cụ AI tạo sinh truyền thống không cung cấp."
+    },
+    {
+      "term": "Tiana is designing a game and decides to create one avatar with specific personality traits. What type of generative AI capability is Tiana using?",
+      "definition": "Ability to create virtual worlds"
+    },
+    {
+      "term": "Raechel wants to apply the process of prompt engineering to create an effective prompt for generating creative ideas for the marketing campaign of a new eco-friendly home cleaning product. Identify the best prompt for this task.\nA. List the benefits of the new eco-friendly home cleaning product through campaigns organized by the company so that more and more people will be attracted to this product.\nB. Generate ideas to sell a new product in the digital market through marketing campaigns and creative ideas.\nC. Generate three creative and detailed ideas for a digital marketing campaign to promote a new eco-friendly home cleaning product. Consider the target audience, product strengths, marketing channels, and unique propositions for selling the product.\nD. Give information about the price of an eco-friendly home cleaning product. This will help the customers compare the price of this product with other products availa",
+      "definition": "C. Generate three creative and detailed ideas for a digital marketing campaign... — Cụ thể, chi tiết và bao quát các yếu tố cần thiết để tạo ý tưởng marketing hiệu quả."
+    },
+    {
+      "term": "Which of the following statements about datasets used in Machine Learning is NOT true?\nA. Validation data subset is used to validate results and fine-tune the algorithm's parameters\nB. Training data is used to fine-tune algorithm's parameters and evaluate how good the model is\nC. Training subset is the data used to train the algorithm",
+      "definition": "B. Training data is used to fine-tune algorithm's parameters and evaluate how good the model is — Sai vì đánh giá mô hình phải dùng validation hoặc test set, không dùng training set."
+    },
+    {
+      "term": "Monica is a writer looking to improve her storytelling by using a large language model (LLM) for creative writing prompts. Which feature of a prompt engineering tool would be most beneficial for her to achieve this goal?",
+      "definition": "Suggesting different prompt formats (like questions, dialogues, or scenarios) tailored to the preferred storytelling style (such as mystery, romance, or sci-fi)"
+    },
+    {
+      "term": "Ethics in artificial intelligence is:\nA. Something that is not an issue.\nB. Something that is entirely solved in current AI systems.\nC. Something that we need to apply today.\nD. Something that somebody else is going to do in the future.",
+      "definition": "C - Ethics in AI là vấn đề cần áp dụng ngay để đảm bảo an toàn, công bằng và minh bạch.\nA sai vì đây là vấn đề nghiêm trọng.\nB sai vì chưa có giải pháp hoàn thiện.\nD sai vì không thể trì hoãn cho tương lai."
+    },
+    {
+      "term": "Which of these is NOT a current application of AI?\nA. Self-Driving vehicles utilizing Computer Vision to navigate around objects\nB. Classifying rock samples to identify best places to drill for oil\nC. Collaborative Robots helping humans lift heavy containers\nD. Making precise patient diagnosis and prescribing independent treatment",
+      "definition": "D - AI chưa được phép tự kê đơn điều trị độc lập vì lý do pháp lý và đạo đức.\nA, B, C đều là các ứng dụng AI đang tồn tại thực tế."
+    },
+    {
+      "term": "How are 'entities' utilized in AI-powered chatbots?\nA. Understanding complex mathematical algorithms\nB. Identifying and extracting specific information from user inputs\nC. Enhancing visual design elements\nD. Analyzing server performance metrics",
+      "definition": "B - Entities được dùng để xác định và trích xuất thông tin cụ thể từ dữ liệu đầu vào của người dùng.\nA sai vì không liên quan đến thuật toán toán học.\nC sai vì không liên quan đến thiết kế giao diện.\nD sai vì không liên quan đến phân tích hiệu suất máy chủ."
+    },
+    {
+      "term": "Which of the following is an attribute of Strong or Generalized AI\nA. Operate with human-level consciousness\nB. Cannot teach itself new strategies\nC. Perform independent tasks\nD. Can perform specific tasks, but cannot learn new ones",
+      "definition": "A - AI mạnh (General AI) có khả năng nhận thức ở mức con người, hiểu và học các nhiệm vụ mới.\nB sai vì Strong AI có thể tự học chiến lược mới.\nC sai vì chỉ nói thực hiện nhiệm vụ độc lập chưa đủ để định nghĩa Strong AI.\nD sai vì mô tả Narrow AI, không phải General AI."
+    },
+    {
+      "term": "Which of the following aspects involved in converting the stethoscope into a digital device to support patient diagnoses involves the use of AI?\nA. An app on the mobile device that applies learnings from previous diagnosis data to assist the physicians in their current diagnoses\nB. Sending digital signals to a mobile device with a machine learning app via bluetooth\nC. Inserting a digitizer into the stethoscope tube to convert the analog sound of the heart beat into a digital signal\nD. Graphing heart beat data on the mobile device allowing a physician to spot trends",
+      "definition": "A — Vì ứng dụng này áp dụng những gì đã học từ dữ liệu chẩn đoán trước để hỗ trợ chẩn đoán mới, đây là biểu hiện rõ ràng của AI. Các phương án B, C, D chỉ liên quan đến thu thập, truyền hoặc hiển thị dữ liệu chứ không phải xử lý và học từ dữ liệu."
+    },
+    {
+      "term": "Which of the following is NOT a good way to define AI?",
+      "definition": "AI is all about machines replacing human intelligence."
+    },
+    {
+      "term": "Which of the following is an attribute of Strong or Generalized AI?",
+      "definition": "Perform independent tasks"
+    },
+    {
+      "term": "AI is the fusion of many fields of study. Which of these fields, along with Computer Science, plays a role in the application of AI?",
+      "definition": "All responses are correct"
+    },
+    {
+      "term": "Which of these is NOT a current application of AI?",
+      "definition": "Making precise patient diagnosis and prescribing independent treatment"
+    },
+    {
+      "term": "Natural Language AI algorithms that learn by example are the reason we can talk to machines and they can talk back to us.",
+      "definition": "True"
+    },
+    {
+      "term": "Advances in the field of Computer Vision make which of the following possible?",
+      "definition": "Detecting cancerous moles in skin images"
+    },
+    {
+      "term": "Which of these is currently NOT an application of Collaborative Robots or Cobots?",
+      "definition": "Personal use in the home such as doing the laundry and cooking for example"
+    },
+    {
+      "term": "Which of the following aspects involved in converting the stethoscope into a digital device to support patient diagnoses involves the use of AI?",
+      "definition": "An app on the mobile device that applies learnings from previous diagnosis data to assist the physicians in their current diagnoses"
+    },
+    {
+      "term": "Which of the following are applications of Artificial Intelligence in action?\n1) IBM Watson utilizing its information retrieval capabilities to provide technical information to oil and gas company workers.\n2) Watson analyzing Grammy nominated song lyrics over a 60-year period and categorizing them based on their emotions.\n3) Assisting patients with neurological damage by detecting patterns in massive movement related datasets and using robots to trigger specific movements in the human body to create new neural pathways in the brain.\n4) Law enforcement authorities using facial recognition algorithms to identify suspects in multiple streams of video footage",
+      "definition": "All of the options are correct"
+    },
+    {
+      "term": "Which of these statements is true?",
+      "definition": "Deep Learning is a specialized subset of Machine Learning that uses layered neural networks to simulate human decision-making"
+    },
+    {
+      "term": "Which of the following is NOT an attribute of Machine Learning?",
+      "definition": "Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer"
+    },
+    {
+      "term": "Which of the following is NOT an attribute of Unsupervised Learning?",
+      "definition": "Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer"
+    },
+    {
+      "term": "Which of the following is an attribute of Supervised Learning?",
+      "definition": "Relies on providing the machine learning algorithm human-labeled data - the more samples you provide, the more precise the algorithm becomes in classifying new data"
+    },
+    {
+      "term": "Which of the following statements about datasets used in Machine Learning is NOT true?",
+      "definition": "Training data is used to fine-tune algorithm's parameters and evaluate how good the model is"
+    },
+    {
+      "term": "When creating deep learning algorithms, developers configure the number of layers and the type of functions that connect the outputs of each layer to the inputs of the next.",
+      "definition": "True"
+    },
+    {
+      "term": "Which of the following fields of application for AI can be used at the airport to flag weapons within luggage passing through the X-ray scanner?",
+      "definition": "Computer Vision"
+    },
+    {
+      "term": "Which of these activities is not required in order for a neural network to synthesize human voice?",
+      "definition": "Deconstruct sentences to decipher the context of use"
+    },
+    {
+      "term": "Which one of these ways is NOT how AI learns?",
+      "definition": "Proactive Learning"
+    },
+    {
+      "term": "How is AI being used to control infectious disease?",
+      "definition": "AIME uses more than 270 variables to predict the next outbreak of Dengue fever."
+    },
+    {
+      "term": "The proliferation of AI will create new ways of working and new jobs for which people must prepare.",
+      "definition": "True"
+    },
+    {
+      "term": "What are the three principles that IBM follows to create ethical AI?",
+      "definition": "Transparency, Skills, Purpose"
+    },
+    {
+      "term": "Ethics in artificial intelligence is:",
+      "definition": "Something that we need to apply today."
+    },
+    {
+      "term": "One approach that helps developers avoid unintentionally creating bias in AI systems is:",
+      "definition": "Using a wide variety of appropriately diverse data for training."
+    },
+    {
+      "term": "Which of the following statements about IBM's views on AI are correct?",
+      "definition": "All of the above."
+    },
+    {
+      "term": "Which of the following are examples of bias in an AI system?",
+      "definition": "Image recognition systems associating images of kitchens, shops, and laundry with women rather than men."
+    },
+    {
+      "term": "There is concern that some jobs will be replaced by AI systems. Which of the following characteristics make a job a good candidate for replacement?",
+      "definition": "Rules-based decision-making."
+    },
+    {
+      "term": "Ethical concerns with AI systems are:",
+      "definition": "Something that should be the concern of every AI developer, so they can be mitigated for as AI systems are developed."
+    },
+    {
+      "term": "What are some of the ethical concerns around artificial intelligence?\n1) Racial, gender or other types of bias.\n2) Loss of jobs due to AI replacing workers performing repetitive tasks.\n3) Concern about the trustworthiness of decision-making supported by AI systems.\n4) Privacy, for example, as human faces are photographed and recognized in public spaces.",
+      "definition": "All of the options are correct"
+    },
+    {
+      "term": "Which of the following NOT a way AI is being used to benefit humanity?",
+      "definition": "Crime: to identify criminals before they commit a crime."
+    },
+    {
+      "term": "How many new opportunities and job roles does the World Economic Forum expect that AI will create in the next few years?",
+      "definition": "133 million"
+    },
+    {
+      "term": "What is a significant way in which developers of AI systems can guard against introducing bias?",
+      "definition": "Providing effective training data and performing regular tests and audits."
+    },
+    {
+      "term": "Watson is an Artificial Intelligence System.",
+      "definition": "True"
+    },
+    {
+      "term": "Deep Learning is what enables Watson's natural language understanding capabilities.",
+      "definition": "True"
+    },
+    {
+      "term": "In which layer of the Watson Transfer Learning model does customer specific learning take place?",
+      "definition": "Top layer"
+    },
+    {
+      "term": "RBS has employed CORA, powered by Watson, to deliver better customer service and empower the customer service center agents. Which of the following statements about CORA are correct?\n1) Cora is trained with over 200 customer intents and has over a thousand responses to those intents.\n2) Cora has the ability to address all customer queries eliminating the need for a human agent talk to the customer.\n3) Cora offers guidance to the customer so they can help themselves.\n4) Cora hands off the customer seamlessly to an agent for complicated questions that may require human intervention.",
+      "definition": "Only options 1, 3, and 4 are correct"
+    },
+    {
+      "term": "Which of the following is an attribute of Watson Assistant?",
+      "definition": "Watson Assistant ensures that customer data is protected."
+    },
+    {
+      "term": "Which of these statements best reflects how businesses are implementing chatbots in customer service?",
+      "definition": "Businesses are looking to balance customer interactions between human agents and chatbots."
+    },
+    {
+      "term": "If you were part of a financial institution using disparate systems to manage regulations, obligations, policies, and controls, which of the IBM Watson solutions would you opt for in order to streamline the compliance lifecycle?",
+      "definition": "Watson Regulatory Compliance"
+    },
+    {
+      "term": "What are three Watson APIs that are particularly useful for organizations that want to create more personalized chatbot experiences?",
+      "definition": "Personality Insights, Tone Analyzer and Natural Language Classifier."
+    },
+    {
+      "term": "If you were given the responsibility to select an appropriate use case for implementing AI in your organization, which of these two approaches is best?",
+      "definition": "Focus on selecting a use case that can best demonstrate the benefit of AI to your organization."
+    },
+    {
+      "term": "Which of these ways is NOT a Watson AI feature that benefits businesses?",
+      "definition": "Training systems with massive amounts of training data to keep them updated."
+    },
+    {
+      "term": "In which of the following ways is Watson currently helping solve business problems?\n1) Gathering expertise learned from thousands of employees to reduce time spent on tracking down expert knowledge.\n2) Using data from sensors to detect moisture levels in the air, helping irrigation systems give water where it's needed most.\n3) Identifying the best routes based on traffic, temperature, and road conditions to transport bees for pollination.",
+      "definition": "1, 2, and 3 are all correct."
+    },
+    {
+      "term": "Which of the following statements about Transfer Learning is INCORRECT?",
+      "definition": "Transfer Learning requires massive amounts of training data for each new related use case."
+    },
+    {
+      "term": "What are the different approaches clients can take to enrich their customer service experience?\n1) Clients can use IBM Watson's 24/7 AI-powered virtual assistant to engage with customers to resolve their queries.\n2) Clients can use IBM Watson Assistant as a behind the scenes assistant to help employees in how they engage directly with their customers.\n3) Clients can use IBM Watson Assistant to manage the complete customer service cycle, end-to-end, eliminating the need for human intervention.\n4) Clients can deploy IBM Watson Assistant powered chatbots along with other Watson services like Watson Discovery to get answers to a wide range of questions about a product.",
+      "definition": "Only options 1, 2, and 4 are correct"
+    },
+    {
+      "term": "Which of the following is an attribute of intelligent chatbots?",
+      "definition": "An intelligent bot can understand when the customer is best served by a human agent and connects the customer to a human agent for such interactions."
+    },
+    {
+      "term": "Which of these are examples of Watson assisting in compliance-oriented business processes?",
+      "definition": "Analyzing structured and unstructured data in incident reports to identify the causes and corresponding mitigation actions.   Helping data privacy professionals maintain an up to the minute understanding of the continually evolving regulations, across jurisdictions.   Assisting legal teams by analyzing transactions to ensure adherence to tax law compliances.   Helping professionals analyze contracts and statements of work to facilitate effective contract governance and fulfillment of tangible items and services."
+    },
+    {
+      "term": "Which of these are attributes of IBM's Cognitive APIs?",
+      "definition": "IBM Cognitive APIs are based on an input/output system, where your input is data that the API feeds into Watson, and the output is the delivery of the overall outcome based on that data."
+    },
+    {
+      "term": "Watson's 3-layered transfer learning model allows businesses to retain complete ownership of their data and insights.",
+      "definition": "True"
+    },
+    {
+      "term": "Which of these are the first three steps customers should take to get started on their AI Journey?",
+      "definition": "Prove, adopt and scale"
+    },
+    {
+      "term": "How is Watson AI currently serving businesses?\n1) Processing massive amounts of data faster.\n2) Helping systems learn with minimal amount of training data.\n3) Protecting customer-specific data and insights.\n4) Helping businesses benefit from the advantages that AI offers without developing AI models from scratch.",
+      "definition": "1, 2, 3, and 4 are all correct."
+    },
+    {
+      "term": "Which of these are benefits clients are seeing with the use of intelligent chatbots in customer service?",
+      "definition": "Greater job satisfaction for human agents as they engage in the more fulfilling customer interactions that require their creativity and decision-making capabilities."
+    },
+    {
+      "term": "IBM Watson AI services are currently available ONLY on IBM Cloud.",
+      "definition": "False"
+    },
+    {
+      "term": "Which of the following does Watson Assistant help you create?",
+      "definition": "Chatbots"
+    },
+    {
+      "term": "Which statement about Watson Discovery is correct?",
+      "definition": "Watson Discovery gives you the ability to store, analyze, and understand your data at scale."
+    },
+    {
+      "term": "Which of the following are unstructured data sources?",
+      "definition": "Email   Blog posts   Social media"
+    },
+    {
+      "term": "Using Watson Knowledge Studio enables you to teach Watson about the specialized terminology used in your industry.",
+      "definition": "True"
+    },
+    {
+      "term": "True or false: Watson Speech to Text can transcribe only pre-recorded audio, not live audio streams.",
+      "definition": "False"
+    },
+    {
+      "term": "If you want to create very specific pronunciations for Watson Text to Speech, which of the following can you use?",
+      "definition": "International Phonetic Alphabet   IBM Symbolic Phonetic Representation notation"
+    },
+    {
+      "term": "True or False: Watson Natural Language Classifier enables users to organize data by having machine learning analyze text, label items, and sort data into custom categories.",
+      "definition": "True"
+    },
+    {
+      "term": "Which of the following AI offerings does IBM Watson provide?",
+      "definition": "Advanced APIs, specialized tooling, and Software as a Service (SaaS)"
+    },
+    {
+      "term": "Which of the following statements about Watson Assistant is correct?",
+      "definition": "Watson Assistant understands the intent of what users are saying."
+    },
+    {
+      "term": "Which of the following tasks does Watson Discovery perform?\n1) Ingest and standardize both structured and unstructured data.\n2) Use natural language queries to search your data.\n3) Create a chatbot to interact with your customers.\n4) Display your data with time series, graphs and aggregations.",
+      "definition": "Only options 1, 2, and 4 are correct"
+    },
+    {
+      "term": "Which of the following tasks can Watson Natural Language Understanding help you with?",
+      "definition": "Extracting the names of people and places discussed in a news article."
+    },
+    {
+      "term": "You are developing an app that can analyze images and text from unstructured sources. Which Watson Service would you use?",
+      "definition": "Watson Visual Recognition"
+    },
+    {
+      "term": "Which of the following is a feature of Watson Knowledge Studio?",
+      "definition": "Helps you build a machine learning model to extract information specific to your business."
+    },
+    {
+      "term": "Which of the following statements about Watson Speech to Text is correct?",
+      "definition": "Watson Speech to Text converts human voice to text."
+    },
+    {
+      "term": "Which of the following statements about Watson Text to Speech is correct?",
+      "definition": "Watson Text to Speech converts written text to natural sounding language."
+    },
+    {
+      "term": "Which of the following is the reason for choosing Watson Language Translator over a human translator?",
+      "definition": "Watson Language Translator can translate data from a wide variety of sources."
+    },
+    {
+      "term": "You work for a recruitment company, and you are looking for help to sort through the huge volumes of applications you receive for each job you advertise. Which of the following capabilities of Watson Language Classifier will help you with this task?",
+      "definition": "Organize job applicants into categories based on key skills listed on their applications."
+    },
+    {
+      "term": "Which of the following statements about Watson Studio is correct?",
+      "definition": "Watson Studio features a drag-and-drop method for building and deploying machine learning models."
+    },
+    {
+      "term": "Which of the following benefits does Watson Machine Learning bring to an organization?",
+      "definition": "It comes with a wide range of pretrained models and datasets."
+    },
+    {
+      "term": "You want to understand and catalog the vast amounts of data that your organization receives from various sources, including RDBMS, NoSQL, file systems, and Hadoop. Which of the following Watson Services can help you with this process?",
+      "definition": "Watson Knowledge Catalog"
+    },
+    {
+      "term": "What is the significance of Alexnet?",
+      "definition": "Alexnet was the first neural network which used backpropagation with a convolutional neural network. Alexnet beat all other competitors in the Image.net challenge in 2012."
+    },
+    {
+      "term": "Which of the following statements about Watson Visual recognition is correct?",
+      "definition": "Watson Visual Recognition can detect human faces and identify qualities such as gender and age of facial features."
+    },
+    {
+      "term": "Watson Personality Insights can detect personality characteristics from text written by individuals, which enables your organization to tailor communication with the individual.",
+      "definition": "True"
+    },
+    {
+      "term": "Which of the following statements about Watson Tone Analyzer is correct?",
+      "definition": "Watson Tone Analyzer can be used to measure the performance of your customer service agents."
+    },
+    {
+      "term": "Which feature of Watson OpenScale will help you to recommend new models to be applied across your business?",
+      "definition": "NeuNets (Neural Network Synthesis)"
+    },
+    {
+      "term": "Which of the following statements about Watson Compare and Comply is INCORRECT?",
+      "definition": "Watson Compare and Comply compares a document with a custom grammatical model and ensures that it is in compliance."
+    },
+    {
+      "term": "True or false: When you use your data with any Watson Service, you must agree to allow IBM full access to that data.",
+      "definition": "False"
+    },
+    {
+      "term": "Which of the following built-in technologies helps you build machine learning models with a simplified graphical interface?",
+      "definition": "Neural Network Modeler"
+    },
+    {
+      "term": "Which of the following statements about Watson Machine Learning is correct?",
+      "definition": "Watson Machine Learning is a set of REST APIs that you can call from any programming language."
+    },
+    {
+      "term": "Which of the following statements about Watson Knowledge Catalog active policy enforcement capabilities is correct?",
+      "definition": "Support automatic and dynamic masking of sensitive data elements."
+    },
+    {
+      "term": "Which of the following statements about Watson Visual Recognition service is NOT correct?",
+      "definition": "Comes trained to your custom specifications with the image data you supply to IBM."
+    },
+    {
+      "term": "You are building a visual recognition system that will identify malformed widgets. Which capability of Watson Visual Recognition will make this possible?",
+      "definition": "The ability to build custom models to recognize between good and defective widgets coming out of the assembly line."
+    },
+    {
+      "term": "Which of the following statements about Watson Personality Insights is correct?",
+      "definition": "Watson Personality Insights requires no training, it works right out of the box."
+    },
+    {
+      "term": "You are building an AI system that can escalate a customer service call if the customer's mood becomes angry. Which Watson Service(s) can help you with this?",
+      "definition": "Watson Tone Analyzer"
+    },
+    {
+      "term": "Which of the following statements about Watson OpenScale is correct?",
+      "definition": "Watson OpenScale is an open platform that operates and automates AI across its lifecycle."
+    },
+    {
+      "term": "You are building an AI system that will help you to identify the payment terms specified in your contracts with third-parties. Which of the following Watson Services could you use?",
+      "definition": "Watson Compare and Comply"
+    },
+    {
+      "term": "You are building an AI system that will help you to create personalized marketing content which includes written and voice communication in an appropriate tone for each customer. Which Watson Services can help you with this task?",
+      "definition": "Watson Tone Analyzer"
+    },
+    {
+      "term": "To get the best out of Watson Services on the IBM Cloud, you must be located in a major metropolitan area, so that you have access to a very high speed internet connection.",
+      "definition": "False"
+    },
+    {
+      "term": "Watson Studio enables organisations to build their own AI models and leverage open source capabilities and technologies.",
+      "definition": "True"
+    },
+    {
+      "term": "Which of the following capabilities are benefits of Watson Oncology?",
+      "definition": "Watson for Oncology helps clinicians consistently create treatment regimes by ensuring they have access to the most up to date information."
+    },
+    {
+      "term": "Which of the following statements about Watson Clinical Trial Matching is correct?",
+      "definition": "Watson Clinical Trial Matching identifies clinical trials appropriate for the patient for the physician to consider."
+    },
+    {
+      "term": "Watson for Genomics helps accelerate the process of locating information relevant to the genetic profile of a tumor sample.",
+      "definition": "True"
+    },
+    {
+      "term": "What do Abu Dhabi National Oil Company (ADNOC) hope that the use of AI will help them achieve?",
+      "definition": "To understand their business better and retain knowledge."
+    },
+    {
+      "term": "Which of the following are challenges that LivePerson identified in creating positive interactions between customer and company?\n1) People are turning to self-service and messaging as a preferred way to engage with customer service.\n2) Legacy voice channels are frustrating for the customer, expensive, and don't necessarily work well.\n3) Frustrating experiences interacting with customers lead to high agent attrition.\n4) Consumers prefer to interact with customer service agents by email or by voice.",
+      "definition": "Only options 1, 2, and 3 are correct."
+    },
+    {
+      "term": "The performance of chatbots can be evaluated in the same way as human agents - with Customer Satisfaction (CSat) scores.",
+      "definition": "True"
+    },
+    {
+      "term": "Which of Connie's capabilities will enable her to adjust the way she responds to customers' questions?",
+      "definition": "The ability to sense emotions such as urgency."
+    },
+    {
+      "term": "At Bradesco, how many questions per month does Watson answer, and at what accuracy?",
+      "definition": "283,000 questions a month with a 95% accuracy rate."
+    },
+    {
+      "term": "Which of the following are applications of Artificial Intelligence in action?",
+      "definition": "Watson analyzing Grammy nominated song lyrics over a 60-year period and categorizing them based on their emotions."
+    },
+    {
+      "term": "Is the following an application of Machine Learning and AI: A machine that beats human in a game in which all rules and moves have been pre-programmed into the machine - true or false?",
+      "definition": "False"
+    },
+    {
+      "term": "Data Science is a subset of AI that uses machine learning algorithms to extract meaning and draw inferences from data.",
+      "definition": "False"
+    },
+    {
+      "term": "Which of the following are attributes of Machine Learning?\na. Machine learning algorithms can be continuously trained and used in the future to predict values\nb. Defines behavioral rules by comparing large data sets to find common patterns\nc. Takes data and answers as input and use these inputs to create a set of rules that determine what the Machine Learning model will be\nd. In Machine Learning models, when we submit inputs, we get answers based on predefined rules",
+      "definition": "a b c"
+    },
+    {
+      "term": "We can use reinforcement learning to teach a machine to play chess.",
+      "definition": "True"
+    },
+    {
+      "term": "Which of the following are attributes of Classification?\na. Forms of classification include decision trees, support vector machines, logistic regression and random forests\nb. Using classification models we extract features from data and classify results into multiple categories\nc. Classification is the process of predicting the class of given data points\nd. Classification models are built by looking at the relationships between features and results, where results are a continuous variable",
+      "definition": "a b c"
+    },
+    {
+      "term": "Which of the following are attributes of Perceptrons?\na. Input layers forward the input values to the next layer by means of multiplying by a weight and summing the results\nb. Each layer of neurons conducts a mathematical operation on the output of the previous layer\nc. An activation function determines how a node responds to its inputs\nd. Perceptrons are single-layered neural networks consisting of input nodes connected directly to an output node",
+      "definition": "a c d"
+    },
+    {
+      "term": "Which of the following are attributes of backpropagation in Neural Networks?\na. The process works on the basis of reward and punishment depending on how close the given output is to the desired output\nb. The process reduces errors over time by determining how far a given output is from the desired output\nc. An error function determines how far the given output is from the desired output\nd. Backpropagation uses training datasets to train neural networks to match known inputs to desired outputs",
+      "definition": "b c d"
+    },
+    {
+      "term": "Which of the following is an attribute of Natural Language Processing (NLP)?\na. NLP systems can understand intent\nb. NLP systems are provided recorded voice samples with corresponding text to help them discern common patterns\nc. NLP systems use a broad array of linguistic models and algorithms to draw inferences from language\nd. NLP systems can identify the emotion in which a word is spoken, for example, frustration, confusion, irritation, or fun etc.",
+      "definition": "a c d"
+    },
+    {
+      "term": "In order for a self-driving vehicle to navigate accurately, it needs to piece together a complete view of its driving environment, which it does with the help of:\na. Vision data\nb. Radar data\nc. Laser data\nd. Data Science",
+      "definition": "a b c"
+    },
+    {
+      "term": "RBS has employed CORA, powered by Watson, to deliver better customer service and empower the customer service center agents. Which of the following statements about CORA are correct?",
+      "definition": "Only options A, C, and D are correct"
+    },
+    {
+      "term": "In which of the following ways is Watson currently helping solve business problems?",
+      "definition": "A, B, and C are all correct."
+    },
+    {
+      "term": "What are the different approaches clients can take to enrich their customer service experience?",
+      "definition": "Clients can deploy IBM Watson Assistant powered chatbots along with other Watson services like Watson Discovery to get answers to a wide range of questions about a product. -----"
+    },
+    {
+      "term": "Which of these are examples of Watson assisting in compliance-oriented business processes?\na. Helping professionals analyze contracts and statements of work to facilitate effective contract governance and fulfillment of tangible items and services.\nb. Helping data privacy professionals maintain an up to the minute understanding of the continually evolving regulations, across jurisdictions.\nc. Assisting legal teams by analyzing transactions to ensure adherence to tax law compliances.\nd. Creating spam filters to prevent phishing scams involving legal notices.\ne. Analyzing structured and unstructured data in incident reports to identify the causes and corresponding mitigation actions.",
+      "definition": "a b c e"
+    },
+    {
+      "term": "How is Watson AI currently serving businesses?",
+      "definition": "Helping businesses benefit from the advantages that AI offers without developing AI models from scratch. -----"
+    },
+    {
+      "term": "Which of the following are unstructured data sources?\na. Blog posts\nb. Email\nc. Social media\nd. Relational Databases",
+      "definition": "a b c"
+    },
+    {
+      "term": "If you want to create very specific pronunciations for Watson Text to Speech, which of the following can you use?\na. International Phonetic Alphabet\nb. IBM Symbolic Phonetic Representation notation\nc. Received Pronunciation\nd. International Radiotelephony Spelling Alphabet",
+      "definition": "a b"
+    },
+    {
+      "term": "Which of the following tasks does Watson Discovery perform?",
+      "definition": "Only options A, B, and D are correct"
+    },
+    {
+      "term": "Which of the following are challenges that LivePerson identified in creating positive interactions between customer and company?",
+      "definition": "Only options A, B, and C are correct."
+    }
+  ]
+}
