@@ -8,16 +8,16 @@
     "related": []
   },
   "AIG202c": {
-<<<<<<< HEAD
+
     "status": "done",
     "related": ["/introduction-to-ai",
                 "/generative-ai-introduction-and-applications",
               "/building-ai-powered-chatbots",
             "/generative-ai-prompt-engineering-for-everyone"]
-=======
+
     "status": "ongoing",
     "related": []
->>>>>>> be9858290703bb491e30ec870ea8e82236652c1c
+
   },
   "BDI301c": {
     "status": "ongoing",
@@ -206,7 +206,7 @@
       "/social-marketing-capstone"
     ]
   },
-<<<<<<< HEAD
+
     "NLP301c": {
     "status": "done",
     "related": [
@@ -215,11 +215,11 @@
       "/sequence-models-in-nlp/",
       "/attention-models-in-nlp/"
     ]
-=======
+
   "NLP301c": {
     "status": "ongoing",
     "related": []
->>>>>>> be9858290703bb491e30ec870ea8e82236652c1c
+
   },
   "NWC203c": {
     "status": "done",
@@ -337,3 +337,4 @@
     ]
   }
 }
+
