@@ -100,11 +100,11 @@
   "HRM201c": {
     "status": "done",
     "related": [
-      "/human-resources-management-capstone",
-      "/compensation-management",
-      "/employee-performance",
-      "/recruiting-hiring-onboarding-employees",
-      "/managing-human-resources"
+      "/talent-acquisition",
+      "/learning-and-development",
+      "/compensation-and-benefits",
+      "/employee-relations",
+      "/compliance-and-risk-management"
     ]
   },
   "ITA203c": {
@@ -329,6 +329,7 @@
     ]
   }
 }
+
 
 
 
